@@ -1,0 +1,102 @@
+{
+  "seriesTitle": "Gooogle Aashaan Daily - Feb 21 2026 (DATA-DRIVEN)",
+  "date": "2026-02-21",
+  "strategy_note": "Video 1: Military #1 ranked theme (Marine variation - not repeating soldier). Video 2: EXPERIMENT - Medical alert dog saves life (untested theme, high potential).",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,heartwarming,reunion"
+  },
+  "videos": [
+    {
+      "slug": "marine-returns-dog-reaction-2026-02-21",
+      "title": "Marine Returns After 20 Months \u2014 His Dog's Reaction Left Everyone In Tears \ud83d\ude2d #shorts",
+      "description": "He deployed as a Marine and was gone for 20 months. No FaceTime. No visits. When he finally walked through that door, his dog proved that loyalty has no expiration date. #Marine #MilitaryDog #DogReunion #Heartwarming #shorts",
+      "tags": "shorts,dog,military,marine,reunion,emotional,heartwarming,soldiers",
+      "scenes": [
+        {
+          "seconds": 2,
+          "prompt": "Close-up: Golden retriever dog lying on a couch next to military boots and a folded uniform, staring sadly at front door, waiting, moody warm indoor lighting, cinematic emotional",
+          "caption": "20 months of waiting..."
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Front door of a suburban home, dog instantly alert, ears perked up, sensing something outside, golden afternoon light through windows, tension building cinematic",
+          "caption": "He heard something"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Marine in uniform opening front door, exhausted but smiling, dog exploding off couch toward him in pure joy, motion blur of excitement, cinematic slow motion",
+          "caption": "MARINE IS HOME! \ud83c\udf96\ufe0f"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Close-up: Dog frantically licking Marine's face while he kneels down and holds back tears, uniform still on, backpack on floor, raw emotional reunion, cinematic tears",
+          "caption": "He never forgot \ud83d\udc99"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Marine sitting on floor with dog in his lap, dog has paws on his chest, tail wagging so fast it's a blur, both overwhelmed, warm golden light, heartwarming cinematic",
+          "caption": "20 months... gone"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Marine lying on living room floor with dog on top of him, wife watching from doorway wiping tears, peaceful beautiful family reunion moment, golden hour cinematic",
+          "caption": "Dogs never forget \u2764\ufe0f"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Close-up: Dog resting chin on Marine's shoulder, eyes closed in pure contentment, Marine hugging him gently, both at peace, soft warm cinematic portrait",
+          "caption": "Finally home \ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "slug": "medical-alert-dog-saves-life-2026-02-21",
+      "title": "Diabetic Alert Dog Wakes Owner At 3AM \u2014 The 911 Call Saved Her Life \ud83d\ude2d #shorts",
+      "description": "She was asleep when her dog started acting strange. At 3AM, he woke her up repeatedly and refused to stop. When paramedics arrived, they said she had minutes left. #DiabetesAlertDog #ServiceDog #MiracleDog #MedicalAlert #shorts",
+      "tags": "shorts,dog,service dog,diabetes,medical alert,life saving,miracle,heartwarming",
+      "scenes": [
+        {
+          "seconds": 2,
+          "prompt": "Close-up: Small black labrador wearing service dog vest lying alert at edge of woman's bed at night, watching her carefully, dark bedroom, only moonlight, concerned expression, cinematic",
+          "caption": "3:17 AM..."
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Dog urgently nudging and pawing at sleeping woman in bed, insistent, refusing to stop, escalating urgency, dim bedroom lighting, life-or-death tension cinematic",
+          "caption": "He wouldn't stop"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Woman waking up disoriented, confused, dog barking at her and then at phone on nightstand, emergency moment, dark bedroom tension, cinematic documentary style",
+          "caption": "Sugar: 29mg/dL \u2620\ufe0f"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Paramedics rushing through front door, woman sitting on floor with dog pressed against her, emergency lights flashing blue and red through windows, urgent dramatic cinematic",
+          "caption": "Paramedics arrived"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Close-up: Paramedic holding glucometer showing critical reading, looking at dog with disbelief, woman conscious and safe due to dog's alert, emergency room warm light, cinematic",
+          "caption": "\"Minutes left\" they said"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Woman sitting up in hospital bed, healthy and recovering, dog in service vest on the bed beside her, paw on her hand, relief and love, warm hospital light cinematic",
+          "caption": "He saved my life \ud83d\udc99"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Close-up: Woman crying happy tears while hugging her service dog, pressing face into his fur, pure gratitude, beautiful emotional moment, soft warm light, cinematic portrait",
+          "caption": "Dogs are angels \ud83d\ude2d"
+        }
+      ]
+    }
+  ]
+}

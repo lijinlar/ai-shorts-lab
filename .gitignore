@@ -1,0 +1,43 @@
+# Output videos & uploads
+*.mp4
+out/
+temp/
+test_output/
+
+# Auth tokens — never commit these
+out/youtube_token*.json
+gmail_token*.json
+*.token.json
+.env
+secrets.json
+oauth_credentials.json
+
+# WanGP model directory (huge, install separately)
+Wan2GP/
+
+# Temp files
+*.zip
+concat.txt
+out/temp_storyboard.json
+scene_*.mp4
+temp_inspect_cog.py
+test_storyboard_wangp.json
+
+# Private storyboards (data-driven, contains strategy)
+storyboards/*DATADRIVEN*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp

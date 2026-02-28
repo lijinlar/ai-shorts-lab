@@ -1,0 +1,106 @@
+{
+  "slug": "dog-reunion-45s",
+  "title": "He Heard His Name… Then He Ran (Dog Reunion) | Wait for the end",
+  "description": "A 45-second emotional reunion story. Would you cry? #shorts",
+  "tags": "shorts,dog,reunion,emotional,story",
+  "default": {
+    "sceneSeconds": 2,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false
+  },
+  "scenes": [
+    {
+      "seconds": 2,
+      "prompt": "Night rain, UAE street, wet road reflections, soft neon lights. A small dog alone near a bus stop, shivering. Cinematic, photorealistic, shallow DOF.",
+      "caption": "He was lost.\nكان ضايع."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Close-up dog face, wet fur, sad eyes, rain droplets, soft bokeh. Photorealistic, cinematic.",
+      "caption": "All night.\nطول الليل."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Wide shot, people pass by under umbrellas, dog stays still near curb. Rainy city bokeh. Cinematic.",
+      "caption": "No one knew.\nولا أحد عرف."
+    },
+    {
+      "seconds": 3,
+      "prompt": "Morning light after rain, quiet street. Dog walks slowly, tired, paws on wet pavement. Cinematic, photorealistic.",
+      "caption": "He kept searching.\nوكان يدور."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Close-up: dog nose sniffing the air, ears perk up slightly. Shallow DOF, cinematic.",
+      "caption": "Then…\nوبعدين…"
+    },
+    {
+      "seconds": 3,
+      "prompt": "A man in his 30s holding a leash and an old dog collar, standing near a community notice board, exhausted face. Cinematic, photorealistic.",
+      "caption": "His owner never stopped looking.\nصاحبه ما وقف يدور."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Close-up man hands holding a worn collar with a name tag (no readable text). Cinematic.",
+      "caption": "" 
+    },
+    {
+      "seconds": 3,
+      "prompt": "Dog behind a fence hears a familiar voice from far, head turns fast. Cinematic, shallow DOF.",
+      "caption": "He heard his name.\nسمع اسمه."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Close-up dog ears up, eyes wide, body trembling from excitement. Cinematic.",
+      "caption": "He froze.\nتجمّد."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Dog breaks into a run, paws splashing small puddles, motion blur. Cinematic, photorealistic.",
+      "caption": "Then he ran.\nوبعدين ركض."
+    },
+    {
+      "seconds": 3,
+      "prompt": "Slow-motion feel: dog running toward camera, wet fur, sunlight, dramatic bokeh. Cinematic.",
+      "caption": "" 
+    },
+    {
+      "seconds": 3,
+      "prompt": "Owner turns around, shocked eyes, drops the leash slightly, hands open. Cinematic close-up, photorealistic.",
+      "caption": "He couldn’t believe it.\nما صدّق."
+    },
+    {
+      "seconds": 3,
+      "prompt": "Dog jumps into owner arms, owner kneels and hugs dog tight, tears. Warm sunlight, cinematic, photorealistic.",
+      "caption": "After days… they met.\nبعد أيام… التقوا."
+    },
+    {
+      "seconds": 2,
+      "prompt": "Close-up: owner face crying and smiling, dog licking his cheek. Cinematic, shallow DOF.",
+      "caption": "" 
+    },
+    {
+      "seconds": 3,
+      "prompt": "Owner wraps dog in a towel, gentle hands, dog calm and safe. Cozy warm light, cinematic.",
+      "caption": "Safe again.\nرجع أمان."
+    },
+    {
+      "seconds": 3,
+      "prompt": "Evening at home, dog eating from a bowl, owner watching quietly, warm lamp light. Cinematic.",
+      "caption": "Home.\nبيت."
+    },
+    {
+      "seconds": 3,
+      "prompt": "Dog sleeping curled up on couch, owner hand resting nearby, warm light, shallow DOF. Cinematic.",
+      "caption": "Don’t give up.\nلا تيأس."
+    },
+    {
+      "seconds": 4,
+      "prompt": "Wide peaceful shot: owner and dog walking together at sunset, leash gentle, golden light, calm ending. Cinematic, photorealistic.",
+      "caption": "Would you cry too?\nكنت بتبكي؟"
+    }
+  ]
+}

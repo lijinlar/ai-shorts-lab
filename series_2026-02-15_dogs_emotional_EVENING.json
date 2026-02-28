@@ -1,0 +1,138 @@
+{
+  "seriesTitle": "Emotional Dog Stories - Feb 15 Evening",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,rescue,emotional,reunion"
+  },
+  "videos": [
+    {
+      "slug": "paralyzed-dog-walks",
+      "title": "Paralyzed Dog Took Her First Steps... The Ending Will Make You Cry 😭 #shorts",
+      "description": "A paralyzed rescue dog gets a wheelchair, then something amazing happens. #dog #rescue #paralyzed #transformation",
+      "scenes": [
+        {
+          "prompt": "Wide shot: Injured dog in rescue center, unable to move back legs, lying on soft bedding with sad expression, warm indoor lighting, emotional realistic cinematic",
+          "caption": "Luna couldn't walk anymore"
+        },
+        {
+          "prompt": "Medium shot: Veterinarian fitting custom wheelchair to paralyzed dog, gentle hands adjusting straps, professional clinic setting, hope emerging, realistic cinematic",
+          "caption": "They built her a wheelchair"
+        },
+        {
+          "prompt": "Wide shot: Dog taking first steps in wheelchair, tail wagging with pure joy, surprised happy expression, bright therapy room, heartwarming cinematic moment",
+          "caption": "She could run again!"
+        },
+        {
+          "prompt": "Close-up: Physical therapy sessions, dog working hard to strengthen legs, determined expression, warm afternoon light, inspiring realistic",
+          "caption": "Weeks of therapy"
+        },
+        {
+          "prompt": "Emotional wide shot: Dog stands without wheelchair for first time, shaky but standing, therapist crying, golden hour lighting, miracle moment cinematic",
+          "caption": "Then this happened..."
+        },
+        {
+          "prompt": "Wide shot: Dog running freely in sunny park, no wheelchair, fully recovered, pure happiness, tail wagging, children playing, golden sunset light, joyful cinematic masterpiece",
+          "caption": "Complete recovery 😭"
+        }
+      ]
+    },
+    {
+      "slug": "stray-saves-child",
+      "title": "Stray Dog Saved a Lost Child... What Happened Next 🥺 #shorts",
+      "description": "A stray dog finds a lost 3-year-old in the woods and stays with her all night. The rescue will warm your heart. #hero #rescue #dog",
+      "scenes": [
+        {
+          "prompt": "Wide shot: 3-year-old child lost in dark woods, crying and scared, evening light fading, lonely atmospheric, cinematic dramatic",
+          "caption": "Lost in the woods at sunset"
+        },
+        {
+          "prompt": "Medium shot: Stray dog approaching gently, comforting frightened child with soft nuzzle, protective stance, dusk lighting, heartwarming realistic",
+          "caption": "A stray dog found her"
+        },
+        {
+          "prompt": "Close-up: Dog curled around child keeping her warm through cold night, child sleeping peacefully, moonlight, guardian angel moment cinematic",
+          "caption": "He stayed all night"
+        },
+        {
+          "prompt": "Wide shot: Search party with flashlights finding child safe, dog alert protecting her, early morning mist, relief and joy, realistic dramatic",
+          "caption": "Rescuers found them at dawn"
+        },
+        {
+          "prompt": "Medium shot: Family meeting hero dog, emotional gratitude, parents crying and thanking the stray, golden morning light, deeply emotional cinematic",
+          "caption": "The family was amazed"
+        },
+        {
+          "prompt": "Wide shot: Family adopting stray dog, child and dog inseparable playing together in sunny yard, happy ending, pure joy, warm afternoon light, perfect cinematic",
+          "caption": "He became family 🥺"
+        }
+      ]
+    },
+    {
+      "slug": "senior-dog-reunion-military",
+      "title": "12-Year-Old Dog Waited 400 Days... Then This Happened 😭 #shorts",
+      "description": "An elderly dog refuses to leave the window while waiting for his military owner. 400 days later... #military #reunion #dog",
+      "scenes": [
+        {
+          "prompt": "Wide shot: 12-year-old grey-muzzled dog sitting by window, gazing outside with hopeful eyes, waiting pose, soft indoor light, lonely emotional realistic",
+          "caption": "400 days of waiting"
+        },
+        {
+          "prompt": "Medium shot: Military owner deployed overseas in uniform, old dog refuses to leave window, family sad in background, melancholic lighting, heartbreaking cinematic",
+          "caption": "His owner was at war"
+        },
+        {
+          "prompt": "Close-up: Family showing dog photos of owner on phone, dog whining sadly at screen, touching photo with paw, tears emerging, emotional realistic",
+          "caption": "He never gave up hope"
+        },
+        {
+          "prompt": "Wide shot: Car pulling up driveway, old dog's ears suddenly perk up, frozen with recognition, golden afternoon light, tension building cinematic",
+          "caption": "Day 400... a car arrived"
+        },
+        {
+          "prompt": "Medium shot: Military owner walks through door in uniform, old dog frozen in disbelief, trembling, time stops moment, warm indoor light, emotional peak cinematic",
+          "caption": "He couldn't believe it"
+        },
+        {
+          "prompt": "Close-up: Emotional reunion, old dog crying and whimpering, jumping despite age, owner on knees holding tight both crying, golden light, pure love cinematic masterpiece",
+          "caption": "Worth every second 😭"
+        }
+      ]
+    },
+    {
+      "slug": "abused-dog-learns-trust",
+      "title": "She Was Afraid of Humans... Watch Her Transformation 🥺 #shorts",
+      "description": "An abused rescue dog won't let anyone touch her. Then a patient rescue worker changes everything. #rescue #transformation",
+      "scenes": [
+        {
+          "prompt": "Wide shot: Abused dog cowering in corner of shelter, terrified of any approach, scars visible, defensive posture, dim lighting, heartbreaking realistic",
+          "caption": "She trusted no one"
+        },
+        {
+          "prompt": "Medium shot: Rescue worker sitting at distance on floor, offering treats with gentle voice, patient body language, soft morning light, hope beginning realistic",
+          "caption": "Someone wouldn't give up"
+        },
+        {
+          "prompt": "Close-up: Dog slowly reaching for food, still trembling with fear, cautious sniff, breakthrough moment, warm lighting, progress emotional",
+          "caption": "First small step"
+        },
+        {
+          "prompt": "Medium shot: Weeks later, dog allows gentle touch for first time, eyes closed with relief, rescue worker's hand on head, golden afternoon light, trust building cinematic",
+          "caption": "Weeks of patience"
+        },
+        {
+          "prompt": "Wide shot: Breakthrough moment, dog curls up next to rescue worker for first time, peaceful sleep, safe at last, warm blanket, emotional payoff realistic",
+          "caption": "She finally felt safe"
+        },
+        {
+          "prompt": "Close-up: Happy dog giving kisses to rescue worker, tail wagging, fully trusting smiling face, pure transformation, bright joyful lighting, perfect ending cinematic",
+          "caption": "Love won 🥺"
+        }
+      ]
+    }
+  ]
+}

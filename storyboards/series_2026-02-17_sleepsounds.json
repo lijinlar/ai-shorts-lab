@@ -1,0 +1,136 @@
+{
+  "default": {
+    "backend": "wangp",
+    "fps": 24,
+    "sceneSeconds": 5,
+    "width": 832,
+    "height": 480,
+    "tags": "sleep, relaxation, asmr, meditation, calm"
+  },
+  "videos": [
+    {
+      "slug": "rain-sleep",
+      "title": "Rain Sounds for Deep Sleep 🌧️ #shorts",
+      "description": "Gentle rain sounds to help you fall asleep fast. Perfect for insomnia relief and relaxation. #rainsounds #sleep #asmr #relaxation",
+      "scenes": [
+        {
+          "prompt": "Dark stormy sky with gentle rain beginning to fall, peaceful evening atmosphere, calming weather, nature relaxation, cinematic",
+          "caption": "Gentle rain falling... 🌧️"
+        },
+        {
+          "prompt": "Rain drops hitting window glass, close up water droplets, cozy indoor view, soothing visual, calming, cinematic",
+          "caption": "Listen to the rhythm 💧"
+        },
+        {
+          "prompt": "Rain falling on green leaves in forest, nature sounds, peaceful wilderness, natural white noise, tranquil, cinematic",
+          "caption": "Nature's lullaby 🌿"
+        },
+        {
+          "prompt": "Cozy bedroom with rain visible through window, warm soft lighting, comfortable bed, perfect sleep environment, cinematic",
+          "caption": "Perfect for sleeping 😴"
+        },
+        {
+          "prompt": "Person peacefully sleeping under blanket, rain sounds in background, deep restful sleep, completely relaxed, cinematic",
+          "caption": "Fall asleep in minutes ⏱️"
+        },
+        {
+          "prompt": "Sunrise breaking through clouds, rain stopped, peaceful morning after good night sleep, refreshed awakening, cinematic",
+          "caption": "Wake up refreshed ☀️"
+        }
+      ]
+    },
+    {
+      "slug": "ocean-waves",
+      "title": "Ocean Waves for Instant Calm 🌊 #shorts",
+      "description": "Peaceful ocean waves to reduce stress and anxiety. Natural sounds for meditation and sleep. #oceansounds #meditation #calm #sleep",
+      "scenes": [
+        {
+          "prompt": "Beautiful ocean beach at sunset, gentle waves rolling onto shore, peaceful seascape, golden hour lighting, calming, cinematic",
+          "caption": "Peaceful ocean waves 🌊"
+        },
+        {
+          "prompt": "Close up of waves washing over smooth stones, rhythmic motion, natural ASMR, soothing water movement, cinematic",
+          "caption": "Nature's rhythm 🪨"
+        },
+        {
+          "prompt": "Seagulls flying over calm ocean, distant horizon, vast peaceful sea, freedom and tranquility, meditation visual, cinematic",
+          "caption": "Let stress wash away 🕊️"
+        },
+        {
+          "prompt": "Person sitting on beach in lotus position, meditating to ocean sounds, sunset meditation, inner peace, cinematic",
+          "caption": "Perfect for meditation 🧘"
+        },
+        {
+          "prompt": "Night ocean under stars, gentle waves continuing, peaceful nighttime sea, cosmic relaxation, sleep inducing, cinematic",
+          "caption": "Sleep to the sea 🌙"
+        },
+        {
+          "prompt": "Person waking up peaceful and calm, window showing ocean view, refreshed after restful sleep, morning tranquility, cinematic",
+          "caption": "Wake up calm & centered ✨"
+        }
+      ]
+    },
+    {
+      "slug": "white-noise",
+      "title": "White Noise for Focus & Sleep 🎧 #shorts",
+      "description": "Pure white noise to block distractions. Boost concentration or fall asleep fast. #whitenoise #focus #productivity #sleep",
+      "scenes": [
+        {
+          "prompt": "Person trying to focus with distractions around, noise everywhere, unable to concentrate, stressed environment, cinematic",
+          "caption": "Can't focus with all this noise? 😣"
+        },
+        {
+          "prompt": "Headphones being put on, white noise starting, sound waves visualization, audio frequency display, calming effect, cinematic",
+          "caption": "White noise blocks it ALL 🎧"
+        },
+        {
+          "prompt": "Person working productively with headphones, focused and concentrated, distraction-free zone, peak performance, cinematic",
+          "caption": "Instant focus mode ON 🎯"
+        },
+        {
+          "prompt": "Baby sleeping peacefully with white noise playing, parents relaxing, nursery environment, parenting hack, cinematic",
+          "caption": "Babies love it too 👶"
+        },
+        {
+          "prompt": "Person studying efficiently with white noise, textbooks open, productive learning, exam preparation, academic success, cinematic",
+          "caption": "Perfect for studying 📚"
+        },
+        {
+          "prompt": "Person falling asleep quickly wearing headphones, white noise still playing, deep sleep achieved, rest and recovery, cinematic",
+          "caption": "Or use it to sleep better 😴"
+        }
+      ]
+    },
+    {
+      "slug": "forest-ambience",
+      "title": "Forest Sounds to Reduce Anxiety 🌲 #shorts",
+      "description": "Calming forest ambience with birds chirping. Natural stress relief and anxiety reduction. #forest #nature #relaxation #anxiety",
+      "scenes": [
+        {
+          "prompt": "Beautiful green forest with morning sunlight filtering through trees, peaceful woodland, nature sanctuary, tranquil, cinematic",
+          "caption": "Welcome to the forest 🌲"
+        },
+        {
+          "prompt": "Colorful birds on tree branches chirping, natural bird songs, wildlife sounds, morning chorus, peaceful nature, cinematic",
+          "caption": "Listen to the birds sing 🐦"
+        },
+        {
+          "prompt": "Gentle breeze rustling leaves, trees swaying softly, wind through forest, natural ASMR, soothing movement, cinematic",
+          "caption": "Soft wind through trees 🍃"
+        },
+        {
+          "prompt": "Small creek flowing through forest, babbling water sounds, moss-covered rocks, nature's music, tranquility, cinematic",
+          "caption": "Stream flowing nearby 💦"
+        },
+        {
+          "prompt": "Person meditating peacefully in forest clearing, surrounded by nature, stress melting away, natural healing, cinematic",
+          "caption": "Feel anxiety melt away 🧘‍♀️"
+        },
+        {
+          "prompt": "Person sitting under tree looking peaceful and calm, reading book, completely relaxed, nature therapy working, cinematic",
+          "caption": "Nature heals everything ✨"
+        }
+      ]
+    }
+  ]
+}

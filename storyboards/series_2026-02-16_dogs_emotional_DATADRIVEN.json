@@ -1,0 +1,137 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "dog, emotional, rescue, reunion, shorts"
+  },
+  "videos": [
+    {
+      "slug": "blind-dog-sees-owner",
+      "title": "Blind Dog Gets Surgery... Watch What Happens When He Sees Again 😭 #shorts",
+      "description": "After living in darkness for 3 years, this dog gets the gift of sight. His first reaction will break your heart. #dog #blind #miracle #emotional",
+      "scenes": [
+        {
+          "prompt": "Elderly golden retriever with cloudy white eyes, bumping into furniture, navigating by smell, sad scene, cinematic",
+          "caption": "Blind for 3 years..."
+        },
+        {
+          "prompt": "Veterinarian carefully removing bandages from dog's eyes after surgery, tense moment, hopeful atmosphere, cinematic",
+          "caption": "Surgery day. Will it work?"
+        },
+        {
+          "prompt": "Dog blinking slowly, eyes clearing up, seeing light for first time in years, moment of realization, cinematic",
+          "caption": "Wait... I can see..."
+        },
+        {
+          "prompt": "Dog's owner kneeling in front of him, dog seeing owner's face clearly for first time, eyes widening, emotional moment, cinematic",
+          "caption": "Is that... you?"
+        },
+        {
+          "prompt": "Dog jumping excitedly, running to owner, tail wagging furiously, tears of joy, powerful reunion, cinematic",
+          "caption": "\"I can finally see you!\" 💔"
+        },
+        {
+          "prompt": "Dog and owner hugging, dog staring into owner's eyes with pure love, miraculous happy ending, cinematic",
+          "caption": "The miracle of sight ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "paralyzed-dog-walks-again",
+      "title": "They Said He'd Never Walk Again... 6 Months Later... #shorts",
+      "description": "Vets said this dog would never walk. His owner refused to give up. What happened next is unbelievable. #dog #paralyzed #miracle #emotional",
+      "scenes": [
+        {
+          "prompt": "German shepherd lying still, back legs paralyzed, looking hopeless in vet clinic, devastating diagnosis, cinematic",
+          "caption": "\"He'll never walk again.\""
+        },
+        {
+          "prompt": "Owner lifting dog into custom wheelchair, dog looking confused and sad, difficult adaptation period, cinematic",
+          "caption": "But she refused to give up on him"
+        },
+        {
+          "prompt": "Montage of physical therapy sessions, owner helping dog exercise legs, slow progress, determination shown, cinematic",
+          "caption": "6 months of physical therapy..."
+        },
+        {
+          "prompt": "Dog's back leg twitching slightly for first time, owner noticing with tears, breakthrough moment, cinematic",
+          "caption": "Then one day... movement!"
+        },
+        {
+          "prompt": "Dog taking first wobbly steps without wheelchair, owner crying tears of joy, defying all odds, cinematic",
+          "caption": "He's walking! 😭"
+        },
+        {
+          "prompt": "Dog running freely in park, completely recovered, playing fetch with owner, miraculous transformation, cinematic",
+          "caption": "Never give up on those you love ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "firefighter-saves-dog",
+      "title": "Firefighter Runs Into Burning House... What He Carries Out... 💔 #shorts",
+      "description": "A firefighter risks everything to save a family's dog from a burning home. The reunion that follows is unforgettable. #dog #rescue #hero #emotional",
+      "scenes": [
+        {
+          "prompt": "House engulfed in flames at night, family standing outside crying, huddled together, dog still inside, dramatic scene, cinematic",
+          "caption": "Their house was burning. Max was still inside."
+        },
+        {
+          "prompt": "Brave firefighter in full gear running into burning building, smoke everywhere, dangerous rescue mission, cinematic",
+          "caption": "One firefighter didn't hesitate"
+        },
+        {
+          "prompt": "Firefighter emerging from smoke carrying limp dog in arms, dog not moving, everyone holding breath, tense moment, cinematic",
+          "caption": "\"Please be alive...\""
+        },
+        {
+          "prompt": "Firefighter giving dog oxygen mask, performing rescue breathing, dog's chest starting to rise and fall, hope returning, cinematic",
+          "caption": "Every second counts"
+        },
+        {
+          "prompt": "Dog coughing and opening eyes, looking up at firefighter, starting to breathe on own, miraculous recovery, cinematic",
+          "caption": "He's breathing! 💔"
+        },
+        {
+          "prompt": "Family hugging their dog and thanking firefighter, dog weak but alive, hero moment, tearjerker ending, cinematic",
+          "caption": "True heroes don't wear capes ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "shelter-dog-last-day",
+      "title": "Shelter Dog's Last Day Before... Wait for the Ending 😭 #shorts",
+      "description": "This dog spent 2 years in a shelter. On his final day, something incredible happened. You won't believe the twist. #shelter #rescue #adoption #emotional",
+      "scenes": [
+        {
+          "prompt": "Sad pit bull sitting alone in small shelter kennel, head down, 2 years in shelter, hopeless expression, cinematic",
+          "caption": "2 years. 730 days. Nobody wanted him."
+        },
+        {
+          "prompt": "Shelter worker approaching kennel with leash, tears in eyes, dog sensing something different today, somber mood, cinematic",
+          "caption": "Today was his last day..."
+        },
+        {
+          "prompt": "Dog walking slowly through shelter hallway one final time, saying goodbye to other dogs, heartbreaking walk, cinematic",
+          "caption": "Or so everyone thought"
+        },
+        {
+          "prompt": "Door opening to reveal young child in wheelchair waiting excitedly, special needs adoption, surprise moment, cinematic",
+          "caption": "But this wasn't the end..."
+        },
+        {
+          "prompt": "Dog gently approaching child, sensing child's special needs, instant connection, tail starting to wag, beautiful bond forming, cinematic",
+          "caption": "They needed each other 💔"
+        },
+        {
+          "prompt": "Dog sleeping peacefully next to child's wheelchair at home, both smiling, perfect match, happy ending, cinematic",
+          "caption": "The last day was actually the FIRST ❤️"
+        }
+      ]
+    }
+  ]
+}

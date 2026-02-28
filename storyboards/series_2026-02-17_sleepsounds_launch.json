@@ -1,0 +1,123 @@
+{
+  "series_name": "Sleep Sounds Haven - Launch Day",
+  "date": "2026-02-17",
+  "channel": "sleepsounds",
+  "videos": [
+    {
+      "title": "Heavy Rain on Tent • Fall Asleep in 60 Seconds 😴",
+      "description": "Let the soothing sound of heavy rain on a tent lull you to sleep. Perfect for insomnia, stress relief, and deep relaxation. Sweet dreams 💤 #SleepSounds #RainSounds #ASMR",
+      "scenes": [
+        {
+          "duration": 30,
+          "prompt": "Close-up of raindrops hitting a dark green tent fabric, gentle ripples spreading, cozy camping atmosphere, soft natural lighting, peaceful evening mood"
+        },
+        {
+          "duration": 40,
+          "prompt": "Wide shot of tent in forest at night, heavy rain falling, trees swaying gently, warm light glowing from inside tent, serene nature scene"
+        },
+        {
+          "duration": 50,
+          "prompt": "POV from inside tent looking out at rain through tent opening, rain creating patterns on fabric, dim ambient lighting, safe and cozy feeling"
+        },
+        {
+          "duration": 40,
+          "prompt": "Rain puddles forming around tent, droplets creating ripples, natural water sounds visualization, dark blues and greens, calming nighttime atmosphere"
+        },
+        {
+          "duration": 40,
+          "prompt": "Gradual fade to black screen with rain sound continuing, minimal visual distraction, focus on audio, sleep-inducing darkness"
+        }
+      ],
+      "tags": ["rain sounds", "sleep sounds", "tent rain", "ASMR", "relaxation", "insomnia", "meditation"],
+      "optimal_upload_time": "10:00",
+      "audio_note": "Heavy rain on fabric with occasional thunder, seamless loop, 48kHz stereo"
+    },
+    {
+      "title": "Ocean Waves at Night • Deep Sleep & Stress Relief 🌊",
+      "description": "Gentle ocean waves under starry night sky. Let the rhythm of the sea wash away stress and guide you to peaceful sleep. #OceanSounds #SleepAid #Relaxation",
+      "scenes": [
+        {
+          "duration": 35,
+          "prompt": "Gentle ocean waves rolling onto dark sandy beach at night, moonlight reflecting on water, stars visible in sky, peaceful coastal scene"
+        },
+        {
+          "duration": 45,
+          "prompt": "Closer view of waves creating foam patterns on shore, bioluminescent sparkles in water, rhythmic motion, hypnotic and calming"
+        },
+        {
+          "duration": 40,
+          "prompt": "Wide ocean view with horizon line, waves moving in slow motion, deep blue water, night sky gradient, infinite peaceful expanse"
+        },
+        {
+          "duration": 40,
+          "prompt": "Underwater perspective showing gentle wave motion from below, moonlight filtering through water, ethereal and dreamlike quality"
+        },
+        {
+          "duration": 40,
+          "prompt": "Slow fade to dark blue screen then black, wave sounds continuing, minimal light pollution, complete relaxation focus"
+        }
+      ],
+      "tags": ["ocean sounds", "waves", "sleep sounds", "beach", "relaxation", "stress relief", "meditation"],
+      "optimal_upload_time": "16:00",
+      "audio_note": "Gentle rhythmic waves, consistent volume, seamless loop, stereo ocean ambience"
+    },
+    {
+      "title": "Brown Noise • The Sound That Helps 10M+ Sleep 🎵",
+      "description": "Pure brown noise for deep sleep, focus, and anxiety relief. Deeper than white noise, scientifically proven to help you fall asleep faster. #BrownNoise #SleepSounds #Anxiety",
+      "scenes": [
+        {
+          "duration": 30,
+          "prompt": "Abstract visualization of brown noise waveforms, deep burgundy and brown colors, smooth flowing patterns, professional scientific aesthetic"
+        },
+        {
+          "duration": 40,
+          "prompt": "Particle system representing sound waves, dark background with warm brown/amber particles gently flowing, hypnotic slow motion"
+        },
+        {
+          "duration": 50,
+          "prompt": "Simple gradient animation from deep brown to black, minimal movement, focus on audio not visuals, calming color transition"
+        },
+        {
+          "duration": 40,
+          "prompt": "Soft pulsing circles in brown tones, representing bass frequencies, slow breathing rhythm visualization, meditative quality"
+        },
+        {
+          "duration": 40,
+          "prompt": "Complete fade to black screen, brown noise continuing, zero visual distraction, pure audio focus for sleep"
+        }
+      ],
+      "tags": ["brown noise", "sleep sounds", "white noise", "deep sleep", "anxiety relief", "focus sounds", "study"],
+      "optimal_upload_time": "20:00",
+      "audio_note": "Pure brown noise at -12dB, seamless loop, 48kHz, bass-heavy, smooth without harsh frequencies"
+    },
+    {
+      "title": "Soft Piano Rain • 3 Min Instant Calm 🎹",
+      "description": "Gentle piano melodies mixed with soft rain sounds. Perfect for quick stress relief, meditation, or drifting off to sleep. Find your peace. #PianoMusic #RainSounds #Meditation",
+      "scenes": [
+        {
+          "duration": 30,
+          "prompt": "Close-up of piano keys being softly played, raindrops visible through window in background, warm interior lighting, peaceful evening atmosphere"
+        },
+        {
+          "duration": 40,
+          "prompt": "Rain falling on window pane with blurred piano in background, drops creating artistic patterns, cozy indoor scene, soft bokeh lights"
+        },
+        {
+          "duration": 45,
+          "prompt": "Wide shot of elegant piano by large window overlooking rainy garden, dim ambient lighting, candles on piano, serene luxury aesthetic"
+        },
+        {
+          "duration": 35,
+          "prompt": "Abstract overlay: piano keys fading into rain visualization, artistic blend of music and nature, calming visual metaphor"
+        },
+        {
+          "duration": 50,
+          "prompt": "Slow fade from rain window to dark screen with rain and piano continuing, minimal visuals, audio taking focus, complete relaxation"
+        }
+      ],
+      "tags": ["piano", "rain sounds", "meditation music", "relaxation", "stress relief", "calm", "sleep music"],
+      "optimal_upload_time": "00:00",
+      "audio_note": "Soft piano in C major, minimal melody, mixed with gentle rain, 48kHz, seamless loop"
+    }
+  ]
+}

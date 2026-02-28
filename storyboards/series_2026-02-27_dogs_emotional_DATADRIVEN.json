@@ -1,0 +1,83 @@
+{
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 24,
+    "width": 480,
+    "height": 832,
+    "backend": "wangp",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,reunion,heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "marine-engineer-returns-dogtags",
+      "title": "Marine Combat Engineer Returns After 10 Months — His Dog Won’t Let Go of the Dog Tags 😭 #shorts",
+      "description": "Ten months away. One quiet step through the doorway. When the Marine combat engineer finally comes home… his dog grabs the dog tags like it’s the only way to make sure he’s REAL. #Marine #MilitaryDog #DogReunion #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: A black-and-tan German shepherd mix stares at a dangling set of scratched metal dog tags, nostrils flaring as it leans in, ears forward, eyes wet. Warm entryway light, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He smelled it first."
+        },
+        {
+          "prompt": "Medium wide: A Marine in worn desert cammies pauses in the doorway with a duffel at his feet, shoulders tight with emotion, while the dog paces fast in a half-circle. Morning sun strips across hardwood, handheld sway. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "10 months gone."
+        },
+        {
+          "prompt": "Low angle: The dog rushes forward then stops inches away, tail wagging in tight arcs, head tilting as it studies the Marine’s face like it’s verifying the impossible. Cozy living room, soft lamp glow, static. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Is it REALLY you?"
+        },
+        {
+          "prompt": "Close-up: The Marine kneels slowly, fingers trembling as he reaches out; the dog presses its forehead into his palm, then locks onto the dog tags with gentle urgency. Slow zoom, warm highlights, quiet breath. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Not the hand…"
+        },
+        {
+          "prompt": "Tight close-up: The dog carefully takes the dog tags in its mouth and holds them still, eyes closing for a second as if memorizing the scent, while the chain clinks softly. Amber hallway light, camera holds steady. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "…the tags."
+        },
+        {
+          "prompt": "Medium shot: The Marine laughs and cries at once, pulling the dog into a full chest hug; the dog keeps the tags between them, paws braced on his vest, body shaking with relief. Soft backlight, gentle push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Don’t disappear again."
+        },
+        {
+          "prompt": "Over-shoulder: The dog finally lets the tags drop and rests its chin on the Marine’s shoulder, eyes glossy and calm, while the Marine kisses the dog’s head and exhales. Living room couch behind, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He’s HOME. 😭"
+        }
+      ]
+    },
+    {
+      "slug": "blind-dog-sees-favorite-toy",
+      "title": "Blind Dog Gets Surgery — Then Sees His Favorite Toy and Finds His Owner… 😭 #shorts",
+      "description": "He lived in shadows for years. After one surgery, the world finally had shapes… and the first thing he recognized was the toy his owner always used to guide him. Then he walked straight into his arms. #BlindDog #Miracle #DogRecovery #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: A cream-colored cocker spaniel with cloudy eyes sniffs the air, head turning slowly, paws tucked close, expression nervous but hopeful. Quiet clinic room, cool daylight, static camera. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He couldn’t see…"
+        },
+        {
+          "prompt": "Medium wide: In a bright veterinary recovery room, the dog sits on a soft blanket while a gentle vet removes a cone; the owner stands nearby clutching a worn squeaky toy. Clean tiles, soft overhead lights, slow pan. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "…until today."
+        },
+        {
+          "prompt": "Close-up: The owner raises the squeaky toy near their chest, hands shaking, and the dog’s ears perk as its gaze steadies for the first time, pupils tracking the shape. Warm rim light, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He FOUND the shape."
+        },
+        {
+          "prompt": "Low angle: The dog takes one cautious step forward, then another, paws tapping the floor lightly as it locks onto the toy’s outline, tail beginning to wag in small beats. Clinic hallway, gentle tracking. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Step… step…"
+        },
+        {
+          "prompt": "Medium shot: The owner kneels with arms open, holding the toy slightly to the side to guide; the dog follows the motion, walking straighter, breathing quick with disbelief. Soft handheld movement, bright daylight. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Follow the toy."
+        },
+        {
+          "prompt": "Tracking shot: The dog suddenly speeds up into a short trot, tail wagging wide now, eyes focused and shining; the toy squeaks once and the dog veers perfectly into the owner’s embrace. Smooth forward move, slight motion blur. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Then he RAN."
+        },
+        {
+          "prompt": "Tight close-up: The dog presses its face into the owner’s neck, paws wrapped around the shoulders, trembling with relief as the owner cries into soft fur and laughs at the same time. Warm window glow, slow zoom-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He saw LOVE. 😭"
+        }
+      ]
+    }
+  ]
+}

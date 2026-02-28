@@ -1,0 +1,92 @@
+{
+  "seriesTitle": "Emotional Dog Stories - Feb 24 (DATADRIVEN)",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,reunion,heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "coast-guard-return-leash",
+      "title": "Coast Guard Rescue Swimmer Returns After 11 Months — His Dog Won’t Stop Bringing the Leash 😭 #shorts",
+      "description": "He was gone for 11 months at sea. The dog kept doing ONE thing by the door. When the rescue swimmer finally returned… the leash said everything. #CoastGuard #MilitaryDog #DogReunion #shorts",
+      "scenes": [
+        {
+          "prompt": "Hook (first 2 seconds): Close-up of a dog’s paws and a worn leash in its mouth, tail wagging fast. The dog is standing by a front door, looking up expectantly. Cinematic, ultra-realistic, emotional.",
+          "caption": "He carried this leash… every day.\nكان يحمل هذا المقود… كل يوم"
+        },
+        {
+          "prompt": "Wide shot: Quiet hallway at dawn, dog sitting by the door with the leash neatly placed beside him like a ritual. Soft window light, cinematic, emotional realism.",
+          "caption": "11 months without him.\n11 شهراً بدونه"
+        },
+        {
+          "prompt": "Medium shot: A calendar on the wall with days crossed off, a Coast Guard cap hanging on a hook, and the dog staring at it. Moody but hopeful lighting.",
+          "caption": "He never stopped waiting.\nلم يتوقف عن الانتظار"
+        },
+        {
+          "prompt": "Close-up: Door handle slowly turning from the other side. The dog’s ears snap up, eyes widen, body tense with excitement. Shallow depth of field.",
+          "caption": "Then… the door moved.\nثم… تحرك الباب"
+        },
+        {
+          "prompt": "Wide shot: A Coast Guard rescue swimmer in uniform steps inside, duffel bag in hand. The dog freezes for a beat, then launches forward.",
+          "caption": "He came home.\nعاد إلى المنزل"
+        },
+        {
+          "prompt": "Slow-motion medium shot: The dog runs, leash still in his mouth, and drops it right at the soldier’s boots like: ‘Let’s go.’ Emotional, cinematic.",
+          "caption": "He brought the leash… like nothing changed.\nأحضر المقود… كأن شيئاً لم يتغير"
+        },
+        {
+          "prompt": "Close-up: The man kneels, crying, hugging the dog tight. The leash is between them. Warm golden light. Extremely emotional, realistic.",
+          "caption": "This is what loyalty looks like.\nهكذا يبدو الوفاء"
+        },
+        {
+          "prompt": "Final shot: The dog and owner walking outside together, leash finally clipped, sunrise behind them. Soft lens flare, peaceful cinematic ending.",
+          "caption": "He waited… and he won.\nانتظر… وفاز"
+        }
+      ]
+    },
+    {
+      "slug": "hydrotherapy-first-stand",
+      "title": "Injured Dog Gets Hydrotherapy — Then Stands Up for His Owner… 😭 #shorts",
+      "description": "They said he might never walk the same again. One therapy pool, one brave step… and the moment he stood for his owner broke everyone. #DogRecovery #Hydrotherapy #MiracleDog #shorts",
+      "scenes": [
+        {
+          "prompt": "Hook (first 2 seconds): Close-up of a wet dog’s face in a therapy pool, water droplets on fur, eyes determined. Owner’s hands gently supporting him. Cinematic, ultra-realistic.",
+          "caption": "He was terrified of standing again.\nكان خائفاً من الوقوف مجدداً"
+        },
+        {
+          "prompt": "Wide shot: Veterinary rehab room with a hydrotherapy treadmill pool. The dog is harnessed safely. Calm, clinical but warm lighting.",
+          "caption": "After the accident… his legs shook.\nبعد الحادث… كانت ساقاه ترتجفان"
+        },
+        {
+          "prompt": "Close-up: A vet adjusting a supportive harness, owner watching with worried eyes. The dog’s paws barely touch the treadmill belt under water.",
+          "caption": "They told his owner: ‘Be patient.’\nقالوا لصاحبه: ‘اصبر’"
+        },
+        {
+          "prompt": "Medium shot: The treadmill starts moving slowly under water. The dog takes a tiny step. Ripples spread, tension and hope in the frame.",
+          "caption": "Step one… was everything.\nالخطوة الأولى… كانت كل شيء"
+        },
+        {
+          "prompt": "Close-up: The owner’s face, tears forming, whispering encouragement. The dog looks at him like he understands.",
+          "caption": "He wasn’t doing it for himself.\nلم يكن يفعلها لنفسه"
+        },
+        {
+          "prompt": "Wide shot: The dog takes several steady steps in the pool, posture improving. Vet nods approvingly. Brightening light.",
+          "caption": "Then his body remembered.\nثم تذكر جسده"
+        },
+        {
+          "prompt": "Medium shot: Outside the pool, the dog stands on land for a moment, wobbling but upright. The owner drops to his knees, stunned.",
+          "caption": "He stood… for his owner.\nوقف… من أجل صاحبه"
+        },
+        {
+          "prompt": "Final close-up: The dog leans into the owner’s chest, calm and proud. Warm sunset light, cinematic emotional payoff.",
+          "caption": "Not a miracle. Just love + work.\nليس معجزة… بل حب وعمل"
+        }
+      ]
+    }
+  ]
+}

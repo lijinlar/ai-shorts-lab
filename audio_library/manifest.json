@@ -1,0 +1,108 @@
+{
+  "created_at": "2026-02-16T12:14:00+04:00",
+  "total_files": 14,
+  "source": "Pixabay",
+  "license": "Pixabay Content License (Free for commercial use, attribution appreciated)",
+  "attribution_required": true,
+  "attribution_text": "Audio from Pixabay: https://pixabay.com",
+  "files": [
+    {
+      "category": "rain",
+      "file": "dragon-studio-gentle-rain-01-437305.mp3",
+      "size_mb": 18.31,
+      "artist": "Dragon Studio",
+      "description": "Gentle rain - 10 minutes loop"
+    },
+    {
+      "category": "rain",
+      "file": "dragon-studio-calming-rain-loop-398653.mp3",
+      "size_mb": 5.49,
+      "artist": "Dragon Studio",
+      "description": "Calming rain loop"
+    },
+    {
+      "category": "rain",
+      "file": "liecio-calming-rain-257596.mp3",
+      "size_mb": 3.32,
+      "artist": "Liecio",
+      "description": "Calming rain"
+    },
+    {
+      "category": "ocean",
+      "file": "dragon-studio-soothing-ocean-waves-372489.mp3",
+      "size_mb": 4.03,
+      "artist": "Dragon Studio",
+      "description": "Soothing ocean waves"
+    },
+    {
+      "category": "ocean",
+      "file": "dragon-studio-ocean-waves-376898.mp3",
+      "size_mb": 0.67,
+      "artist": "Dragon Studio",
+      "description": "Ocean waves"
+    },
+    {
+      "category": "ocean",
+      "file": "missywhimsyart-ocean-waves-266187.mp3",
+      "size_mb": 0.75,
+      "artist": "MissyWhimsyArt",
+      "description": "Ocean waves"
+    },
+    {
+      "category": "ocean",
+      "file": "solarmusic-ocean-waves-112906.mp3",
+      "size_mb": 0.75,
+      "artist": "SolarMusic",
+      "description": "Ocean waves"
+    },
+    {
+      "category": "fire",
+      "file": "u_7hpxkdroz2-fire-461592.mp3",
+      "size_mb": 1.50,
+      "artist": "u_7hpxkdroz2",
+      "description": "Fire sounds"
+    },
+    {
+      "category": "fire",
+      "file": "dragon-studio-fire-crackling-sounds-427410.mp3",
+      "size_mb": 0.53,
+      "artist": "Dragon Studio",
+      "description": "Fire crackling sounds"
+    },
+    {
+      "category": "fire",
+      "file": "maxhammarback-fire-sound-efftect-21991.mp3",
+      "size_mb": 0.46,
+      "artist": "MaxHammarback",
+      "description": "Fire sound effect"
+    },
+    {
+      "category": "nature",
+      "file": "chribonn-nature-216798.mp3",
+      "size_mb": 13.09,
+      "artist": "Chribonn",
+      "description": "Nature ambience"
+    },
+    {
+      "category": "nature",
+      "file": "soundreality-stream-nature-445380.mp3",
+      "size_mb": 3.91,
+      "artist": "SoundReality",
+      "description": "Stream nature sounds"
+    },
+    {
+      "category": "nature",
+      "file": "soundreality-birds-forest-nature-445379.mp3",
+      "size_mb": 3.33,
+      "artist": "SoundReality",
+      "description": "Birds forest nature"
+    },
+    {
+      "category": "nature",
+      "file": "soundreality-forest-nature-322637.mp3",
+      "size_mb": 1.59,
+      "artist": "SoundReality",
+      "description": "Forest nature sounds"
+    }
+  ]
+}

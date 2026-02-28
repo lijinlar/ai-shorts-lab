@@ -1,0 +1,136 @@
+{
+  "default": {
+    "backend": "wangp",
+    "fps": 24,
+    "sceneSeconds": 5,
+    "width": 832,
+    "height": 480,
+    "tags": "finance, crypto, investing, money, stocks"
+  },
+  "videos": [
+    {
+      "slug": "bitcoin-price-alert",
+      "title": "Bitcoin Just Hit $95K! What's Next? 📈 #shorts",
+      "description": "Bitcoin breaks $95K - here's what crypto experts predict next. #bitcoin #crypto #investing #btc",
+      "scenes": [
+        {
+          "prompt": "Bitcoin logo glowing with price chart showing upward trend, dramatic financial graphics, $95,000 price displayed, exciting market movement, cinematic",
+          "caption": "Bitcoin hits $95K! 🚀"
+        },
+        {
+          "prompt": "Trading screen showing massive green candles, BTC price surging, crypto exchange interface, bullish market energy, cinematic",
+          "caption": "Up 15% this week! 📊"
+        },
+        {
+          "prompt": "Crypto analyst pointing at chart showing resistance level at $100K, professional trading desk, serious analysis, cinematic",
+          "caption": "Resistance at $100K incoming"
+        },
+        {
+          "prompt": "Historical Bitcoin chart showing previous all-time highs being broken, comparison overlay, market cycles visualization, cinematic",
+          "caption": "Breaking all previous records 💥"
+        },
+        {
+          "prompt": "Split screen: institutional investors vs retail traders, both buying Bitcoin, money flowing in, mainstream adoption, cinematic",
+          "caption": "Institutions are buying heavy 🏦"
+        },
+        {
+          "prompt": "Price prediction graphic showing potential path to $120K, multiple scenarios, expert forecasts, cinematic",
+          "caption": "Target: $120K by March? 🎯"
+        }
+      ]
+    },
+    {
+      "slug": "crypto-vs-stocks",
+      "title": "Crypto vs Stocks - Which Makes MORE Money? 💰 #shorts",
+      "description": "Head-to-head: Cryptocurrency vs Traditional Stocks. See the real returns. #crypto #stocks #investing #wealth",
+      "scenes": [
+        {
+          "prompt": "Split screen showing Bitcoin logo and S&P 500 index logo, financial comparison theme, professional investment graphics, cinematic",
+          "caption": "Crypto vs Stocks - Let's compare! 💰"
+        },
+        {
+          "prompt": "Stock market chart showing steady 10% annual growth, traditional blue-chip stocks, conservative gains, stable trend, cinematic",
+          "caption": "Stocks: Safe, steady 10%/year 📈"
+        },
+        {
+          "prompt": "Crypto chart showing explosive 200% gains but volatile swings, dramatic price movements, high risk high reward, cinematic",
+          "caption": "Crypto: Wild 200%+ gains 🚀"
+        },
+        {
+          "prompt": "Businessman in suit holding stock certificates, traditional investing, established wealth, conservative approach, cinematic",
+          "caption": "Stocks: Low risk, slow growth 🏦"
+        },
+        {
+          "prompt": "Young trader on laptop trading crypto at night, fast-paced environment, 24/7 markets, high energy, cinematic",
+          "caption": "Crypto: High risk, massive potential ⚡"
+        },
+        {
+          "prompt": "Portfolio split showing 70% stocks 30% crypto, balanced investment strategy, diversification graphic, smart allocation, cinematic",
+          "caption": "Smart move? Do BOTH! 🎯"
+        }
+      ]
+    },
+    {
+      "slug": "passive-income-tip",
+      "title": "Make $500/Month Passive Income (Easy Way) 💵 #shorts",
+      "description": "Simple passive income strategy that actually works. Start with just $1000. #passiveincome #investing #money #wealth",
+      "scenes": [
+        {
+          "prompt": "Money growing on tree visual metaphor, passive income concept, cash flowing while you sleep, financial freedom theme, cinematic",
+          "caption": "$500/month while you sleep? ✨"
+        },
+        {
+          "prompt": "Dividend stocks portfolio showing monthly payouts, blue chip companies paying dividends, steady cash flow, professional interface, cinematic",
+          "caption": "Method 1: Dividend stocks 📊"
+        },
+        {
+          "prompt": "Real estate investment property with rent income visualization, passive rental income, property wealth building, cinematic",
+          "caption": "Method 2: Rental properties 🏠"
+        },
+        {
+          "prompt": "High-yield savings account showing interest accumulation, safe banking returns, compound interest visual, stable growth, cinematic",
+          "caption": "Method 3: High-yield savings 🏦"
+        },
+        {
+          "prompt": "Crypto staking interface showing rewards being earned, digital assets generating yield, modern passive income, cinematic",
+          "caption": "Method 4: Crypto staking 💎"
+        },
+        {
+          "prompt": "Calculator showing $1000 investment growing to $500/month over time, realistic timeline, achievable results, cinematic",
+          "caption": "Start with $1K, earn $500/mo! 🎯"
+        }
+      ]
+    },
+    {
+      "slug": "avoid-this-mistake",
+      "title": "This Investing Mistake Cost Me $50,000 😱 #shorts",
+      "description": "Don't make the same costly investing mistake I did. Learn from my loss. #investing #finance #money #crypto",
+      "scenes": [
+        {
+          "prompt": "Person looking shocked at negative portfolio balance on screen, red numbers, massive loss displayed, painful realization, cinematic",
+          "caption": "Lost $50,000 in one trade 😱"
+        },
+        {
+          "prompt": "Flashback showing impulsive buy button click without research, FOMO trading, emotional decision making, rushed action, cinematic",
+          "caption": "I bought without ANY research 🤦"
+        },
+        {
+          "prompt": "Chart showing price crash immediately after purchase, terrible entry point, caught the falling knife, classic mistake, cinematic",
+          "caption": "It crashed 80% next day 📉"
+        },
+        {
+          "prompt": "Social media hype and influencer shilling shown on phone, following crowd blindly, no due diligence, peer pressure, cinematic",
+          "caption": "I just followed the hype 📱"
+        },
+        {
+          "prompt": "Research tools and fundamental analysis ignored, due diligence checklist unchecked, proper investing process skipped, cinematic",
+          "caption": "Never skipped research again ✅"
+        },
+        {
+          "prompt": "Text overlay with lesson learned: DYOR (Do Your Own Research), investing wisdom, expensive lesson, cinematic",
+          "caption": "Lesson: ALWAYS do your research! 🧠"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "default": {
+    "backend": "wangp",
+    "fps": 24,
+    "sceneSeconds": 5,
+    "width": 832,
+    "height": 480,
+    "tags": "ai, technology, productivity, tools, software"
+  },
+  "videos": [
+    {
+      "slug": "chatgpt-vs-claude",
+      "title": "ChatGPT vs Claude - Which AI Wins? 🤖 #shorts",
+      "description": "Head-to-head AI comparison: ChatGPT vs Claude. See which one is better for coding, writing, and analysis. #ai #chatgpt #claude #tech",
+      "scenes": [
+        {
+          "prompt": "Split screen showing ChatGPT and Claude logos side by side, modern tech interface, professional AI comparison, vibrant colors, cinematic",
+          "caption": "ChatGPT vs Claude - Let's compare! 🤖"
+        },
+        {
+          "prompt": "ChatGPT interface generating code quickly, Python syntax highlighted, fast typing animation, developer workspace, cinematic",
+          "caption": "ChatGPT: Lightning fast responses ⚡"
+        },
+        {
+          "prompt": "Claude interface showing detailed thoughtful analysis, longer more nuanced responses, premium quality output, cinematic",
+          "caption": "Claude: More detailed thinking 🧠"
+        },
+        {
+          "prompt": "Code comparison showing ChatGPT code vs Claude code side by side, quality difference visible, cinematic",
+          "caption": "Claude writes cleaner code 💯"
+        },
+        {
+          "prompt": "Chat interface showing ChatGPT handling casual conversation naturally, friendly AI assistant vibe, cinematic",
+          "caption": "ChatGPT: Better for quick tasks 💬"
+        },
+        {
+          "prompt": "Winner podium showing both AIs, text overlay 'Use both!', balanced recommendation, smart choice, cinematic",
+          "caption": "Best answer? Use BOTH! 🎯"
+        }
+      ]
+    },
+    {
+      "slug": "notion-productivity",
+      "title": "Notion Changed My Life (Productivity Hack) 📝 #shorts",
+      "description": "How Notion transformed my productivity. Simple setup that actually works. #notion #productivity #organization #tools",
+      "scenes": [
+        {
+          "prompt": "Messy desk with papers everywhere, chaotic workspace, overwhelmed person, disorganized life, before state, cinematic",
+          "caption": "My life before Notion... 😰"
+        },
+        {
+          "prompt": "Notion app opening on laptop screen, clean beautiful interface, organized dashboard appearing, transformation beginning, cinematic",
+          "caption": "Then I discovered Notion ✨"
+        },
+        {
+          "prompt": "Notion database view showing tasks organized by status, kanban board layout, color coded priorities, perfect organization, cinematic",
+          "caption": "Task management in one place 📊"
+        },
+        {
+          "prompt": "Notion calendar integrated with notes, meetings linked to documents, everything connected, seamless workflow, cinematic",
+          "caption": "Calendar + notes + docs = magic 🗓️"
+        },
+        {
+          "prompt": "Mobile phone showing Notion synced perfectly, same data everywhere, access from anywhere, freedom, cinematic",
+          "caption": "Works on ALL your devices 📱"
+        },
+        {
+          "prompt": "Person working calmly at organized desk, productive and focused, stress-free environment, after transformation, cinematic",
+          "caption": "Now I'm 10x more productive! 🚀"
+        }
+      ]
+    },
+    {
+      "slug": "midjourney-tips",
+      "title": "Secret Midjourney Prompts for INSANE Art 🎨 #shorts",
+      "description": "Pro Midjourney tips that will blow your mind. Create stunning AI art with these secret prompts. #midjourney #aiart #tutorial",
+      "scenes": [
+        {
+          "prompt": "Basic AI generated image looking mediocre, amateur quality, simple prompt result, before optimization, cinematic",
+          "caption": "Basic prompts = boring results 😴"
+        },
+        {
+          "prompt": "Text overlay showing secret prompt formula: subject + style + lighting + camera, pro tip revealed, cinematic",
+          "caption": "Secret formula: Add these 4 things! 💡"
+        },
+        {
+          "prompt": "Midjourney generating stunning cinematic portrait with dramatic lighting, professional quality, massive improvement, cinematic",
+          "caption": "1. Add lighting style (dramatic, soft) 💫"
+        },
+        {
+          "prompt": "AI art in specific artist style, Van Gogh inspired digital painting, artistic mastery, beautiful result, cinematic",
+          "caption": "2. Add art style (oil painting, 3D) 🖼️"
+        },
+        {
+          "prompt": "Professional camera shot specification, 85mm portrait lens effect, DSLR quality AI image, pro photography, cinematic",
+          "caption": "3. Add camera angle (wide, macro) 📸"
+        },
+        {
+          "prompt": "Final masterpiece AI artwork, museum quality digital art, photorealistic and stunning, perfect result, cinematic",
+          "caption": "Result: Professional AI art! 🎯"
+        }
+      ]
+    },
+    {
+      "slug": "cursor-ai-coding",
+      "title": "This AI Codes FASTER Than Me 😱 #shorts",
+      "description": "Cursor AI just changed coding forever. Watch it build an entire app in seconds. #cursor #ai #coding #programming",
+      "scenes": [
+        {
+          "prompt": "Programmer typing code manually, slow traditional coding, taking hours, old way of programming, cinematic",
+          "caption": "Me coding: 6 hours for simple app 💻"
+        },
+        {
+          "prompt": "Cursor AI interface opening, modern AI-powered code editor, futuristic development tool, game changer, cinematic",
+          "caption": "Then I tried Cursor AI... 🤖"
+        },
+        {
+          "prompt": "Natural language prompt being typed: 'Build todo app with React', AI understanding command, simple instruction, cinematic",
+          "caption": "Just describe what you want 💬"
+        },
+        {
+          "prompt": "AI writing code at lightning speed, entire React components appearing, auto-generating clean code, mind-blowing, cinematic",
+          "caption": "AI writes ENTIRE codebase ⚡"
+        },
+        {
+          "prompt": "App running perfectly, functional todo application, working features, bug-free code, instant success, cinematic",
+          "caption": "And it actually WORKS! ✅"
+        },
+        {
+          "prompt": "Clock showing 15 minutes elapsed, comparison to 6 hours before, massive time savings, productivity multiplied, cinematic",
+          "caption": "Same app: 15 minutes vs 6 hours 🚀"
+        }
+      ]
+    }
+  ]
+}

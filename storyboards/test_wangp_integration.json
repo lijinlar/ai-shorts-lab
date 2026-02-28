@@ -1,0 +1,35 @@
+{
+  "series_name": "WanGP Integration Test",
+  "default": {
+    "backend": "wangp",
+    "width": 832,
+    "height": 480,
+    "fps": 24,
+    "sceneSeconds": 5,
+    "tags": "dog, puppy, cute, pets, animals"
+  },
+  "videos": [
+    {
+      "slug": "test_puppy_snow",
+      "title": "Puppy's First Snow ❄️🐕",
+      "description": "Watch this adorable puppy experience snow for the first time! #puppy #snow #cute",
+      "scenes": [
+        {
+          "prompt": "A golden retriever puppy stands at a doorway, looking out at fresh white snow covering a backyard. The puppy's ears perk up with curiosity. Soft morning light filters through, creating a warm glow. Shot from inside looking out, shallow depth of field keeps the puppy in sharp focus. High dynamic range, crisp details of the puppy's golden fur.",
+          "caption": "First glimpse...",
+          "seconds": 5
+        },
+        {
+          "prompt": "The golden retriever puppy takes its first cautious steps into the snow, paws sinking into the white powder. Its eyes widen with surprise and wonder. Snowflakes gently fall from above. Low angle shot from ground level showing the puppy's expressions clearly. Soft natural lighting, shallow depth of field. High dynamic range captures texture of snow and fur.",
+          "caption": "One small step...",
+          "seconds": 5
+        },
+        {
+          "prompt": "The puppy starts playing joyfully in the snow, jumping and rolling around. Its tail wags excitedly as snowflakes land on its nose. Pure joy and excitement captured in every movement. Wide shot showing the snow-covered backyard, with the puppy as the energetic focal point. Crisp winter lighting, high dynamic range.",
+          "caption": "Pure joy! ❄️",
+          "seconds": 5
+        }
+      ]
+    }
+  ]
+}

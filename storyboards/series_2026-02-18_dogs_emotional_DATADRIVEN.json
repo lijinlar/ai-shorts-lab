@@ -1,0 +1,137 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "dog, emotional, rescue, reunion, shorts"
+  },
+  "videos": [
+    {
+      "slug": "blind-dog-sees-again",
+      "title": "Blind Dog Gets Surgery... The Moment She Sees Her Family Again 😭 #shorts",
+      "description": "Born with cataracts, this dog lived in darkness for 8 years. Then one surgery changed everything. Her reaction will destroy you. #dog #blind #miracle #emotional",
+      "scenes": [
+        {
+          "prompt": "Beautiful black labrador walking carefully with clouded eyes, bumping into furniture, navigating home by memory alone, heartbreaking, cinematic",
+          "caption": "8 years. She's never seen her family's faces."
+        },
+        {
+          "prompt": "Veterinary surgeon carefully performing eye surgery on dog, removing cataracts, delicate operation, hope and worry, cinematic",
+          "caption": "They saved for years for this surgery"
+        },
+        {
+          "prompt": "Bandages being gently removed from dog's eyes after surgery, vet and family holding breath, moment of truth approaching, cinematic",
+          "caption": "The moment of truth..."
+        },
+        {
+          "prompt": "Dog's eyes opening slowly, seeing light for first time, blinking in confusion and wonder, world coming into focus, cinematic",
+          "caption": "\"Wait... I can SEE?!\""
+        },
+        {
+          "prompt": "Dog seeing owner's face for the very first time, recognition hitting her, eyes filling with tears of joy, powerful moment, cinematic",
+          "caption": "\"THIS is what you look like?!\" 💔"
+        },
+        {
+          "prompt": "Dog frantically licking and nuzzling every family member, seeing them all for first time, overwhelming love and joy, cinematic",
+          "caption": "\"You're all so beautiful!\" ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "paralyzed-dog-walks",
+      "title": "They Said She'd Never Walk Again... 6 Months Later... 💔 #shorts",
+      "description": "Hit by a car, this dog was paralyzed. Vets said she'd never walk. But they didn't know her spirit. #paralyzed #recovery #dog #miracle",
+      "scenes": [
+        {
+          "prompt": "Small terrier lying motionless in vet ICU after car accident, back legs completely paralyzed, family crying beside her, devastating, cinematic",
+          "caption": "\"She'll never walk again. I'm sorry.\""
+        },
+        {
+          "prompt": "Owner refusing to give up, starting daily physical therapy sessions with paralyzed dog, massaging legs, determination and love, cinematic",
+          "caption": "But her owner never gave up"
+        },
+        {
+          "prompt": "Dog in tiny wheelchair for first time, confused but trying, small movements in back legs, glimmer of hope, cinematic",
+          "caption": "Week 1: Just small twitches..."
+        },
+        {
+          "prompt": "Hydrotherapy session, dog's legs starting to move in water, fighting to swim, breakthrough moment beginning, cinematic",
+          "caption": "Week 8: She started fighting back"
+        },
+        {
+          "prompt": "Dog taking first wobbly steps without wheelchair, legs shaking but MOVING, owner crying, impossible becoming possible, cinematic",
+          "caption": "Week 20: The moment they said would never come"
+        },
+        {
+          "prompt": "Dog running full speed across grass field, completely healed, jumping into owner's arms, defying all odds, pure joy, cinematic",
+          "caption": "Never let anyone tell you miracles don't happen ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "cancer-dog-bucket-list",
+      "title": "Vet Says \"3 Weeks Left\"... So They Did THIS 😭 #shorts",
+      "description": "Terminal cancer. 3 weeks to live. This family made sure their dog's final days were filled with pure love. #cancer #bucketlist #dog #emotional",
+      "scenes": [
+        {
+          "prompt": "Golden retriever at vet getting terminal cancer diagnosis, family receiving devastating news, three weeks left to live, heartbreaking, cinematic",
+          "caption": "\"3 weeks. Make them count.\""
+        },
+        {
+          "prompt": "Family creating bucket list for dog, writing down all dog's favorite things, determined to make every day special, love and tears, cinematic",
+          "caption": "So they made a bucket list"
+        },
+        {
+          "prompt": "Dog swimming in ocean for first time, pure joy on face despite illness, living every moment fully, bittersweet happiness, cinematic",
+          "caption": "Beach day ✓"
+        },
+        {
+          "prompt": "Dog eating entire plate of bacon and treats, licking lips, family laughing through tears, no rules anymore just love, cinematic",
+          "caption": "All-you-can-eat bacon ✓"
+        },
+        {
+          "prompt": "Dog sleeping in parents' bed surrounded by all family members, everyone cuddling together, cherishing every second, emotional, cinematic",
+          "caption": "Sleeping in the big bed ✓"
+        },
+        {
+          "prompt": "Final photo of dog surrounded by flowers and family, peaceful and loved, ready to go, fulfilled life, tear-jerking goodbye, cinematic",
+          "caption": "He passed peacefully. The best boy till the end. ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "abused-dog-learns-to-trust",
+      "title": "Rescued from Fighting Ring... 6 Months Later You Won't Believe the Transformation 😭 #shorts",
+      "description": "Scarred, terrified, broken. This pit bull was rescued from a fighting ring. What love did for him will restore your faith in humanity. #rescue #pitbull #transformation #emotional",
+      "scenes": [
+        {
+          "prompt": "Scarred pit bull cowering in corner of rescue shelter, flinching at every movement, covered in scars from fighting, broken spirit, cinematic",
+          "caption": "Rescued from a fighting ring. Too scared to move."
+        },
+        {
+          "prompt": "Foster volunteer sitting far away, slowly offering treats, not approaching, dog trembling but watching, first step to healing, cinematic",
+          "caption": "It took 2 weeks before he'd even look at her"
+        },
+        {
+          "prompt": "Dog cautiously sniffing volunteer's hand for first time, still shaking but trying to trust, breakthrough moment, fragile hope, cinematic",
+          "caption": "Week 8: First touch"
+        },
+        {
+          "prompt": "Dog's tail wagging slightly for the first time, small smile appearing, fear slowly melting away, healing beginning, cinematic",
+          "caption": "Week 12: First tail wag 💔"
+        },
+        {
+          "prompt": "Dog playing with toys for first time in his life, running and jumping, discovering joy he never knew existed, transformation accelerating, cinematic",
+          "caption": "Week 16: He learned how to PLAY"
+        },
+        {
+          "prompt": "Same dog now cuddling peacefully with volunteer in bed, completely trusting, scarred but loved, beautiful transformation complete, cinematic",
+          "caption": "Love can heal anything. Even this. ❤️"
+        }
+      ]
+    }
+  ]
+}

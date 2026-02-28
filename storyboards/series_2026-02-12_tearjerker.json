@@ -1,0 +1,484 @@
+{
+  "seriesTitle": "30 Seconds That Changed Someone's Day",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,story,emotional,uae,kerala"
+  },
+  "videos": [
+    {
+      "slug": "lost-kid-mall",
+      "title": "Part 1/10 — He Lost His Mom for 30 Seconds (UAE)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Cinematic mall corridor in UAE, warm lights, a small child standing alone looking scared, shallow depth of field, realistic, cinematic",
+          "caption": "He couldn't find his mom.\nما قدر يلقى أمه."
+        },
+        {
+          "prompt": "Close-up of child's trembling hands and teary eyes, cinematic bokeh, realistic",
+          "caption": "Just… frozen.\nبس… واقف مكانه."
+        },
+        {
+          "prompt": "A crowd walking past, motion blur, child staying still, cinematic",
+          "caption": "Everyone kept walking.\nالكل كمل طريقه."
+        },
+        {
+          "prompt": "A kind woman notices and kneels down gently, warm mall lighting, cinematic",
+          "caption": "I stopped.\nأنا وقفت."
+        },
+        {
+          "prompt": "Woman speaks softly, child nods slightly, intimate close-up, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Security desk in mall, staff calmly helping, cinematic, realistic",
+          "caption": "We asked for help.\nطلبنا المساعدة."
+        },
+        {
+          "prompt": "Mother running toward child, emotional reunion, cinematic",
+          "caption": "Then… she saw him.\nوبعدين… شافته."
+        },
+        {
+          "prompt": "Mother hugging child tightly, tears, cinematic close-up",
+          "caption": "Her knees gave out.\nركبها ما قدرت."
+        },
+        {
+          "prompt": "Child finally smiles in relief, warm light, cinematic",
+          "caption": "Safe.\nأمان."
+        },
+        {
+          "prompt": "Wide shot: mother and child walking away holding hands, cinematic",
+          "caption": "Be the calm person.\nكون الشخص الهادي."
+        }
+      ]
+    },
+    {
+      "slug": "taxi-wallet",
+      "title": "Part 2/10 — I Forgot My Wallet… He Didn’t Get Angry (UAE Taxi)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Cinematic night street in UAE, taxi interior, passenger searching pockets worried, realistic, cinematic",
+          "caption": "I forgot my wallet.\nنسيت محفظتي."
+        },
+        {
+          "prompt": "Close-up of empty hands, phone screen low battery, cinematic",
+          "caption": "I panicked.\nتوترت."
+        },
+        {
+          "prompt": "Driver in rear-view mirror, calm eyes, cinematic",
+          "caption": "He stayed calm.\nهو كان هادي."
+        },
+        {
+          "prompt": "Driver waves it off and smiles gently, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Passenger trying to explain, driver nodding, warm light, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Taxi stops, driver points: 'it’s okay', cinematic",
+          "caption": "He said: 'No worries.'\nقال: ما عليك."
+        },
+        {
+          "prompt": "Passenger steps out embarrassed, driver smiles, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Next day daylight, passenger returns to taxi stand with cash, cinematic",
+          "caption": "I came back.\nرجعت."
+        },
+        {
+          "prompt": "Driver surprised, laughs softly, takes money, cinematic",
+          "caption": "He didn’t expect it.\nما توقع."
+        },
+        {
+          "prompt": "Close-up handshake / thank you, cinematic",
+          "caption": "Pay it forward.\nسوّي خير."
+        }
+      ]
+    },
+    {
+      "slug": "groceries-kerala",
+      "title": "Part 3/10 — He Dropped Everything in the Rain (Kerala)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Kerala street in monsoon rain, older man carrying groceries slips, bags fall, cinematic, realistic",
+          "caption": "The rain took everything.\nالمطر أخذ كل شيء."
+        },
+        {
+          "prompt": "Close-up: vegetables rolling in water, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "People passing by under umbrellas, ignoring, cinematic",
+          "caption": "No one stopped.\nولا أحد وقف."
+        },
+        {
+          "prompt": "A young person runs back, kneels to help, cinematic",
+          "caption": "I ran back.\nرجعت بسرعة."
+        },
+        {
+          "prompt": "Hands picking up groceries, rain drops, cinematic close-up",
+          "caption": ""
+        },
+        {
+          "prompt": "Old man looks ashamed, young person smiles, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "They pack groceries into a bag together, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Old man’s eyes water, quiet gratitude, cinematic close-up",
+          "caption": "He whispered 'thank you'.\nهمس: شكراً."
+        },
+        {
+          "prompt": "Walking together under one umbrella, Kerala rain, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Wide shot, rain fading, cinematic",
+          "caption": "Kindness is a shelter.\nالخير ستر."
+        }
+      ]
+    },
+    {
+      "slug": "first-day-crying",
+      "title": "Part 4/10 — Her First Day… and She Broke Down (UAE Office)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Modern UAE office hallway, a young woman sits on stairs hiding tears, cinematic",
+          "caption": "First day.\nأول يوم."
+        },
+        {
+          "prompt": "Close-up: trembling breath, mascara tears, cinematic",
+          "caption": "And I was failing.\nوأنا كنت أنهار."
+        },
+        {
+          "prompt": "Footsteps approach, someone stops, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Coworker sits beside her silently, offers water, cinematic",
+          "caption": "They didn’t ask questions.\nما سألوا كثير."
+        },
+        {
+          "prompt": "Two people sitting, quiet support, cinematic",
+          "caption": "Just… presence.\nبس… وجود."
+        },
+        {
+          "prompt": "Woman wipes tears, small nod, cinematic close-up",
+          "caption": ""
+        },
+        {
+          "prompt": "Coworker smiles reassuringly, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "They stand up together, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Walking back into office, stronger, cinematic",
+          "caption": "You’re not alone.\nأنت مو لحالك."
+        },
+        {
+          "prompt": "Text-only feel: warm office light, cinematic",
+          "caption": "Check on your people.\nاسأل عن أحبابك."
+        }
+      ]
+    },
+    {
+      "slug": "nurse-car",
+      "title": "Part 5/10 — She Cried in the Car After Her Shift (UAE)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Hospital parking at night in UAE, nurse sitting in car, hands on steering wheel, crying, cinematic",
+          "caption": "She saved lives today.\nهي أنقذت أرواح."
+        },
+        {
+          "prompt": "Close-up: exhausted eyes, tears, cinematic",
+          "caption": "And no one asked if she was okay.\nولا أحد سألها: أنتِ بخير؟"
+        },
+        {
+          "prompt": "Security guard sees from distance, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Guard places water bottle and note on windshield, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Note close-up on windshield, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Nurse steps out, sees note, breath catches, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Close-up: note reads 'Thank you for not giving up', cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Nurse smiles through tears, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Guard nods respectfully from afar, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Warm night lights, nurse drives away calmer, cinematic",
+          "caption": "Your kindness is medicine.\nخيرك علاج."
+        }
+      ]
+    },
+    {
+      "slug": "stutter-boy",
+      "title": "Part 6/10 — He Stuttered… So They Laughed (Kerala School)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Kerala classroom, a boy standing to speak, nervous, cinematic",
+          "caption": "He tried to speak.\nحاول يتكلم."
+        },
+        {
+          "prompt": "Close-up: lips struggling, classmates blurred, cinematic",
+          "caption": "Words got stuck.\nالكلام توقف."
+        },
+        {
+          "prompt": "Kids laughing in background, cinematic",
+          "caption": "They laughed.\nضحكوا."
+        },
+        {
+          "prompt": "Teacher raises hand calmly, silence falls, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Teacher kneels to eye level, gentle smile, cinematic",
+          "caption": "Take your time.\nخذ وقتك."
+        },
+        {
+          "prompt": "Boy breathes, tries again, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Class listens quietly, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Boy finishes one sentence, relief, cinematic close-up",
+          "caption": "He did it.\nقدر."
+        },
+        {
+          "prompt": "Teacher nods proud, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Wide: boy sits down, calmer, cinematic",
+          "caption": "Be gentle with voices.\nكون لطيف."
+        }
+      ]
+    },
+    {
+      "slug": "bus-stop-rain",
+      "title": "Part 7/10 — She Waited Alone in the Rain (UAE Bus Stop)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "UAE bus stop in heavy rain, young woman soaked holding bag, cinematic",
+          "caption": "No umbrella.\nبدون مظلة."
+        },
+        {
+          "prompt": "Close-up: rain on face, she shivers, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Cars pass splashing water, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "A stranger approaches holding umbrella, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Umbrella covers both, close-up, cinematic",
+          "caption": "He didn’t say a word.\nما قال ولا كلمة."
+        },
+        {
+          "prompt": "Woman looks surprised and grateful, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Bus arrives headlights, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "They walk together to bus door, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "She turns to say thank you, stranger nods, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Bus drives off, rain continues, cinematic",
+          "caption": "Small mercy. Big day.\nرحمة صغيرة… يوم كبير."
+        }
+      ]
+    },
+    {
+      "slug": "phone-call-grandma",
+      "title": "Part 8/10 — She Just Wanted to Call Her Son (Kerala)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Kerala small house, elderly woman holding smartphone confused, cinematic",
+          "caption": "She just wanted to call her son.\nبس كانت تبي تكلم ولدها."
+        },
+        {
+          "prompt": "Close-up: shaking fingers on screen, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Phone shows missed calls, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Neighbor girl enters gently, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Girl sits beside her and guides her, warm light, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Screen shows call connecting, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Old woman’s face lights up hearing voice, tears, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "She laughs softly through tears, cinematic close-up",
+          "caption": ""
+        },
+        {
+          "prompt": "Girl smiles quietly, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Warm morning light, cinematic",
+          "caption": "Help someone reconnect.\nساعد حد يوصل."
+        }
+      ]
+    },
+    {
+      "slug": "wedding-photo",
+      "title": "Part 9/10 — He Found a Wedding Photo in the Trash (UAE)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "UAE street cleaner near bin, finds a framed photo, cinematic",
+          "caption": "He found a memory.\nلقى ذكرى."
+        },
+        {
+          "prompt": "Close-up: wedding photo slightly wet, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Cleaner wipes it carefully, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "He looks around, unsure, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "He walks to a nearby building reception, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Receptionist calls someone, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "A woman arrives shocked, grabs photo, tears, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Cleaner steps back, humble, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Woman thanks him deeply, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Cleaner returns to work, cinematic",
+          "caption": "Protect what matters.\nحافظ على الغالي."
+        }
+      ]
+    },
+    {
+      "slug": "midnight-food",
+      "title": "Part 10/10 — He Shared His Only Food (Kerala Night)",
+      "description": "A short emotional mini-story. #shorts",
+      "scenes": [
+        {
+          "prompt": "Kerala roadside at night, a hungry man holding a small food parcel, cinematic",
+          "caption": "It was all he had.\nهذا كل اللي عنده."
+        },
+        {
+          "prompt": "Close-up: food parcel in hands, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "He sees another person shivering and hungry, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "He splits the food and offers half, cinematic",
+          "caption": "He gave it away.\nعطاها."
+        },
+        {
+          "prompt": "Other person shocked, takes it, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "They eat quietly, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Morning daylight, someone offers him a meal back, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "He smiles, emotional, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Wide shot: kindness returning, cinematic",
+          "caption": ""
+        },
+        {
+          "prompt": "Warm light, cinematic",
+          "caption": "Kindness comes back.\nالخير يرجع."
+        }
+      ]
+    }
+  ]
+}

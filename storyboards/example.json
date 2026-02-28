@@ -1,0 +1,36 @@
+{
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 24,
+    "width": 480,
+    "height": 832,
+    "backend": "wangp",
+    "upscale4k": false
+  },
+  "videos": [
+    {
+      "title": "Dog Reunites With Owner After 18 Months — The Reaction Is Everything 😭 #shorts",
+      "description": "Military reunion — dog recognizes owner after 18 months apart. #shorts #dog #emotional",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: a golden retriever's nose twitches as it sniffs the air near a front door; warm amber afternoon light streams through a side window. Camera holds static, subtle slow zoom-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium wide: a US soldier in worn desert fatigues drops a heavy duffel bag at the front door; the retriever freezes mid-step, ears perked sharply forward, tail beginning to wag in slow arcs. Warm hallway light, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Low angle: the golden retriever sprints across polished hardwood floor, nails clicking fast, body low and accelerating toward camera. Natural afternoon daylight flooding from behind. Smooth tracking shot. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium shot: the soldier kneels and opens both arms wide; the retriever leaps and collides into his chest, tail whipping wildly, paws on his shoulders, licking his face. Warm interior light. Camera holds still. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Close-up: the soldier's face buried in the dog's golden fur, eyes shut, tears on his cheek, one hand gripping the dog's back tightly. Soft rim light from window. Static camera, slow breathe-in zoom. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Wide final: soldier sits on the floor leaning against the door, the retriever draped across his lap and chest, tail still wagging slowly. Quiet golden afternoon light fills the hallway. Camera holds still. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        }
+      ]
+    }
+  ]
+}

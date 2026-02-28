@@ -1,0 +1,57 @@
+{
+  "slug": "taxi-kindness-standalone",
+  "title": "He Paid For A Stranger’s Ride (UAE) | Wait for the end",
+  "description": "A 30-second emotional mini-story (cinematic). Comment: would you do this? #shorts",
+  "tags": "shorts,uae,story,emotional,kindness",
+  "default": {
+    "sceneSeconds": 3,
+    "note": "You can override per scene with { seconds: 2 } etc.",
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false
+  },
+  "scenes": [
+    {
+      "prompt": "Night Dubai, inside modern UAE taxi, beige interior, rain on windows, neon reflections. Man late 20s, short black hair, trimmed beard, dark blue shirt, back seat holding phone + bank card, anxious. Taxi meter visible (no readable text). Shallow DOF, cinematic, photorealistic.",
+      "caption": "My card got declined.\nبطاقتي رفضت."
+    },
+    {
+      "prompt": "Extreme close-up hands shaking holding bank card over phone payment screen (no readable text), rain reflections, macro detail, shallow DOF, cinematic, photorealistic.",
+      "caption": "I felt ashamed.\nحسّيت بالخجل."
+    },
+    {
+      "prompt": "Taxi front seat POV, driver in rear-view mirror, calm eyes, warm dashboard light, rainy city lights bokeh outside, cinematic close-up, shallow DOF, photorealistic.",
+      "caption": "He didn’t shout.\nما صرخ."
+    },
+    {
+      "prompt": "Taxi stopped at curb at night, rear door open. A well-dressed man stands outside holding phone, gentle concerned face. Rainy neon street, wet road reflections. Cinematic wide shot, photorealistic.",
+      "caption": "Then… someone stepped in.\nوبعدين… تدخل شخص."
+    },
+    {
+      "prompt": "Close-up, stranger hand offers phone/card to driver, driver nods. Warm interior light, rain streaks on window, shallow DOF, cinematic, photorealistic.",
+      "caption": "No speeches.\nبدون كلام."
+    },
+    {
+      "prompt": "Back seat close-up, passenger raises hand politely to stop it, watery eyes, embarrassed, shaky breathing. Shallow DOF, cinematic, photorealistic.",
+      "caption": "Please… don’t.\nلا… بالله."
+    },
+    {
+      "prompt": "Medium close-up, stranger smiles kindly and gestures 'it\u2019s okay'. Warm light, rain bokeh, shallow DOF, cinematic, photorealistic.",
+      "caption": "It’s okay.\nعادي."
+    },
+    {
+      "prompt": "Close-up, passenger looks down, single tear, breathing steadies. Shallow DOF, cinematic, photorealistic.",
+      "caption": "I’ll remember this forever.\nما راح أنسى."
+    },
+    {
+      "prompt": "Outside taxi under warm streetlight, rain lighter. Passenger steps out says thank you, stranger nods and walks away. Wet road reflections. Cinematic wide shot, photorealistic.",
+      "caption": "You saved my day.\nأنقذت يومي."
+    },
+    {
+      "prompt": "Wide shot, taxi drives away through rainy Dubai street, neon reflections, calm emotional ending. Cinematic, photorealistic.",
+      "caption": "Would you do this?\nكنت بتسويها؟"
+    }
+  ]
+}

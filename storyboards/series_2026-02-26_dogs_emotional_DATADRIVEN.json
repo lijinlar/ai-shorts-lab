@@ -1,0 +1,83 @@
+{
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 24,
+    "width": 832,
+    "height": 480,
+    "backend": "wangp",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,reunion,heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "army-medic-returns-sleeve",
+      "title": "Army Medic Returns After 7 Months — His Dog Won’t Let Go of His Sleeve 😭 #shorts",
+      "description": "Seven months away. One knock at the door. When the Army medic finally steps inside… his dog grabs his sleeve like it’s the only way to make sure he’s REAL. #Army #MilitaryDog #DogReunion #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: A brindle pit bull mix presses its nose to a worn camouflage sleeve, eyes glossy and trembling, front paws gripping fabric. Warm hallway light, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He came home…"
+        },
+        {
+          "prompt": "Medium wide: A tired Army medic in dusty uniform stands just inside the doorway, duffel bag down, breathing shaky as the dog circles fast at his boots. Early morning sun through a window, handheld sway. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "7 months apart."
+        },
+        {
+          "prompt": "Low angle: The dog jumps once, then freezes, ears pinned back, tail wagging in tight arcs, staring up at the medic’s face like it can’t believe it. Quiet living room, soft amber lamp. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He had to check."
+        },
+        {
+          "prompt": "Close-up: The medic kneels on hardwood and reaches slowly, fingers trembling; the dog nudges under his palm, then gently takes the cuff of the sleeve in its mouth. Slow zoom, warm highlights. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Not the hand… the sleeve."
+        },
+        {
+          "prompt": "Medium shot: The medic laughs and cries at once as the dog holds the sleeve and leans its whole body into him, paws on his chest, collar tag jingling. Cozy home interior, static camera. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Don’t leave again."
+        },
+        {
+          "prompt": "Over-shoulder: The dog guides the medic toward the couch by keeping a soft grip on the sleeve, stepping backward carefully, tail wagging nonstop. Sunlit dust in the air, gentle tracking. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He had a plan."
+        },
+        {
+          "prompt": "Tight close-up: The dog finally releases the sleeve and lays its head on the medic’s forearm, eyes closing in relief while the medic kisses the dog’s forehead. Golden lamp glow, slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Proof you’re SAFE. 😭"
+        }
+      ]
+    },
+    {
+      "slug": "rehab-harness-first-run",
+      "title": "Injured Dog Learns to Walk Again — Then Runs Straight to His Owner… 😭 #shorts",
+      "description": "They said his back legs might never work the same. One rehab harness, one brave step… and then he did the one thing nobody expected: he RAN to his owner. #DogRecovery #MiracleDog #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: A young golden retriever lies on a rehab mat, back legs resting still, eyes bright but worried as its owner strokes its cheek. Clean clinic floor, soft daylight, static. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "He couldn’t stand…"
+        },
+        {
+          "prompt": "Medium wide: In a veterinary rehab room, a therapist clips a supportive walking harness around the dog’s torso while the owner watches with hands clasped. Bright overhead lights, gentle pan. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "…until this harness."
+        },
+        {
+          "prompt": "Low angle: The dog rises with help, paws splaying slightly on the rubber floor, tail flicking with hope; the harness lifts just enough to steady its hips. Slow push-in, clinic background. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "First stand."
+        },
+        {
+          "prompt": "Close-up: The owner kneels a few meters away, arms open, whispering encouragement; the dog focuses hard, ears forward, breathing quick, ready to move. Soft bounce camera, warm tone. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Come to me."
+        },
+        {
+          "prompt": "Tracking shot: The dog takes slow steps, then steadier ones, harness straps taut, paws tapping the floor in rhythm; the tail lifts higher with each step. Smooth lateral move, bright clinic. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Step… step…"
+        },
+        {
+          "prompt": "Medium shot: The dog suddenly breaks into a short run, harness swaying as the therapist lets the slack out, owner’s face changing to shock and joy. Slight motion blur, fast push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Then he RAN."
+        },
+        {
+          "prompt": "Tight close-up: The dog presses into the owner’s chest, paws wrapping around the shoulders, owner crying into golden fur while the harness hangs loose to the side. Soft backlight, slow zoom. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus",
+          "caption": "Not healed… just HOME. 😭"
+        }
+      ]
+    }
+  ]
+}

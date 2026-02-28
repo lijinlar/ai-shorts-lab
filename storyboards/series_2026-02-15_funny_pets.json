@@ -1,0 +1,175 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "funny pets, funny animals, cat, dog, pet comedy, animal fails, cute pets, funny moments"
+  },
+  "videos": [
+    {
+      "slug": "cat-laser-master",
+      "title": "Cat vs Laser Pointer: The Ultimate Battle",
+      "description": "Watch this hilarious cat attempt to catch the uncatchable red dot! Epic fail compilation.",
+      "scenes": [
+        {
+          "prompt": "Orange tabby cat sitting calmly on a carpet, focused eyes staring at something, indoor home setting, natural lighting, cinematic",
+          "caption": "The calm before the chaos..."
+        },
+        {
+          "prompt": "Orange tabby cat suddenly leaping into the air, paws stretched out, trying to catch a red laser dot, mid-jump action shot, cinematic",
+          "caption": "ATTACK MODE: ACTIVATED"
+        },
+        {
+          "prompt": "Cat spinning in circles, chasing laser pointer on floor, fast chaotic movement, determined expression, funny moment, cinematic",
+          "caption": "The chase begins!"
+        },
+        {
+          "prompt": "Cat crashing into furniture while chasing laser, comedic fail moment, surprised expression, indoor setting, cinematic",
+          "caption": "Mission failed successfully"
+        },
+        {
+          "prompt": "Exhausted cat lying on floor panting, defeated but proud expression, laser dot still visible nearby, funny ending, cinematic",
+          "caption": "Worth it."
+        }
+      ]
+    },
+    {
+      "slug": "dog-mail-carrier",
+      "title": "Dog vs Mailman: The Daily Drama",
+      "description": "The epic saga of a dog who thinks he's protecting the world from the mailman. Spoiler: He's not.",
+      "scenes": [
+        {
+          "prompt": "Golden retriever dog sleeping peacefully on couch, calm and relaxed, cozy home interior, soft lighting, cinematic",
+          "caption": "Life is peaceful..."
+        },
+        {
+          "prompt": "Same dog suddenly alert, ears perked up, staring at door intensely, suspicious expression, dramatic lighting, cinematic",
+          "caption": "Wait... what's that sound?"
+        },
+        {
+          "prompt": "Dog running full speed toward camera, mouth open, excited and determined expression, motion blur, action shot, cinematic",
+          "caption": "INTRUDER ALERT!"
+        },
+        {
+          "prompt": "Dog barking aggressively at front door, jumping up and down, heroic stance, protecting home, dramatic moment, cinematic",
+          "caption": "NOT ON MY WATCH!"
+        },
+        {
+          "prompt": "Dog sitting proudly by door wagging tail, satisfied expression, thinks he saved the day, heroic pose, cinematic",
+          "caption": "Another day, another victory"
+        }
+      ]
+    },
+    {
+      "slug": "cat-box-obsession",
+      "title": "Cat + Empty Box = Pure Chaos",
+      "description": "Why do cats love boxes so much? Science can't explain it, but this video captures the obsession perfectly.",
+      "scenes": [
+        {
+          "prompt": "Gray cat walking past expensive cat bed and toys, ignoring everything, indoor home setting, natural lighting, cinematic",
+          "caption": "Ignoring $100 cat tower..."
+        },
+        {
+          "prompt": "Cat suddenly stopping and staring at small cardboard box on floor, eyes wide with interest, dramatic moment, cinematic",
+          "caption": "But THIS... this is perfection"
+        },
+        {
+          "prompt": "Cat attempting to squeeze into tiny box, body half in half out, struggling but determined, funny moment, cinematic",
+          "caption": "If I fits, I sits!"
+        },
+        {
+          "prompt": "Cat fully compressed inside tiny box, only head sticking out, proud satisfied expression, comedic image, cinematic",
+          "caption": "Nailed it."
+        },
+        {
+          "prompt": "Cat still in box refusing to leave, other toys scattered around ignored, stubborn cat logic, funny ending, cinematic",
+          "caption": "Box life chose me."
+        }
+      ]
+    },
+    {
+      "slug": "dog-bath-escape",
+      "title": "Dog's Epic Bath Escape Plan",
+      "description": "Watch this clever dog attempt the greatest prison break of all time. Spoiler: It's just bath time.",
+      "scenes": [
+        {
+          "prompt": "Fluffy dog being carried toward bathroom, suspicious worried expression, trying to resist, comedic moment, cinematic",
+          "caption": "Wait... where are we going?"
+        },
+        {
+          "prompt": "Dog seeing bathtub filled with water, eyes widening in horror, backing away slowly, dramatic reaction, cinematic",
+          "caption": "OH NO. NOT THE BATH."
+        },
+        {
+          "prompt": "Dog attempting to escape by hiding under bed, only tail visible sticking out, failed hiding attempt, funny, cinematic",
+          "caption": "If I can't see them, they can't see me"
+        },
+        {
+          "prompt": "Wet soapy dog sitting in bathtub looking betrayed and defeated, sad puppy eyes, dramatic lighting, cinematic",
+          "caption": "Betrayed by my own family"
+        },
+        {
+          "prompt": "Fluffy clean dog zooming around house at full speed, shaking water everywhere, chaotic energy, funny ending, cinematic",
+          "caption": "FREEDOM ZOOMIES!"
+        }
+      ]
+    },
+    {
+      "slug": "cat-knock-everything",
+      "title": "Cat Discovers Gravity (Again)",
+      "description": "A scientific documentary about a cat testing the laws of physics... by knocking everything off the table.",
+      "scenes": [
+        {
+          "prompt": "Black and white cat sitting on table next to cup, staring at human innocently, calm expression, cinematic",
+          "caption": "Just sitting here, being innocent..."
+        },
+        {
+          "prompt": "Cat looking at cup, then at human, then back at cup, calculating expression, mischievous moment, cinematic",
+          "caption": "Hmmm... interesting object"
+        },
+        {
+          "prompt": "Cat slowly extending paw toward cup, testing it, dramatic slow motion moment, cinematic lighting, comedic tension",
+          "caption": "Science requires experimentation"
+        },
+        {
+          "prompt": "Cat pushing cup off table while maintaining eye contact with human, rebellious expression, item falling, cinematic",
+          "caption": "Gravity works. Experiment successful."
+        },
+        {
+          "prompt": "Cat sitting satisfied next to empty table edge, proud expression, multiple items on floor below, victory pose, cinematic",
+          "caption": "My work here is done."
+        }
+      ]
+    },
+    {
+      "slug": "dog-food-thief",
+      "title": "Dog's Stealth Mission: Operation Kitchen Raid",
+      "description": "One dog. One mission. One piece of chicken. Zero stealth skills.",
+      "scenes": [
+        {
+          "prompt": "Beagle dog peeking around kitchen corner, spy-like suspicious look, stealth mode activated, cinematic lighting",
+          "caption": "Mission: Impossible theme plays"
+        },
+        {
+          "prompt": "Dog tiptoeing across kitchen floor, exaggerated careful steps, trying to be quiet, comedic stealth attempt, cinematic",
+          "caption": "Stealth level: 0"
+        },
+        {
+          "prompt": "Dog standing on hind legs reaching for food on counter, stretching as far as possible, determined expression, cinematic",
+          "caption": "So close..."
+        },
+        {
+          "prompt": "Dog losing balance and falling, knocking over items, crashing sound implied, comedic fail moment, cinematic",
+          "caption": "ABORT MISSION!"
+        },
+        {
+          "prompt": "Dog sitting innocently on floor pretending nothing happened, guilty expression, food still on counter, cinematic",
+          "caption": "I've been sitting here the whole time"
+        }
+      ]
+    }
+  ]
+}

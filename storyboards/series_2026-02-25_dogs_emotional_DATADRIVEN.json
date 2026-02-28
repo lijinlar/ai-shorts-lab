@@ -1,0 +1,92 @@
+﻿{
+  "seriesTitle": "Emotional Dog Stories - Feb 25 (DATADRIVEN)",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,reunion,heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "navy-seal-returns-tennis-ball",
+      "title": "Navy SEAL Returns After 2 Years â€” His Dog Drops the Tennis Ball at His Feet ðŸ˜­ #shorts",
+      "description": "Two years away. One familiar sound at the door. When the Navy SEAL finally steps inâ€¦ his dog brings the ONE thing they always played with. #NavySEAL #MilitaryDog #DogReunion #shorts",
+      "scenes": [
+        {
+          "prompt": "Hook (first 2 seconds): Extreme close-up of a dogâ€™s mouth holding a scuffed yellow tennis ball, tail wagging fast. The dog is standing inches from a front door, ears alert, emotional cinematic ultra-realistic.",
+          "caption": "He kept this ballâ€¦ for 2 years.\nØ§Ø­ØªÙØ¸ Ø¨Ù‡Ø°Ù‡ Ø§Ù„ÙƒØ±Ø©â€¦ Ù„Ø³Ù†ØªÙŠÙ†"
+        },
+        {
+          "prompt": "Wide shot: Quiet living room at dusk. The dog sits by the door with the tennis ball placed carefully in front of him like a ritual. Warm cinematic lighting, realistic.",
+          "caption": "Every dayâ€¦ he waited.\nÙƒÙ„ ÙŠÙˆÙ…â€¦ ÙƒØ§Ù† ÙŠÙ†ØªØ¸Ø±"
+        },
+        {
+          "prompt": "Medium shot: A shadow crosses the frosted glass of the door. The dogâ€™s head tilts, ears snap up, paws shuffle forward. Shallow depth of field.",
+          "caption": "Then he heard it.\nØ«Ù… Ø³Ù…Ø¹Ù‡"
+        },
+        {
+          "prompt": "Close-up: Door handle turns slowly. The dogâ€™s eyes widen, breathing quickens, paws dance in place. Emotional, ultra-realistic.",
+          "caption": "The handle movedâ€¦\nØªØ­Ø±Ùƒ Ø§Ù„Ù…Ù‚Ø¨Ø¶â€¦"
+        },
+        {
+          "prompt": "Wide shot: A Navy SEAL in uniform steps inside with a duffel bag. The dog freezes for one heartbeat, then rushes forward.",
+          "caption": "He came home.\nØ¹Ø§Ø¯ Ø¥Ù„Ù‰ Ø§Ù„Ù…Ù†Ø²Ù„"
+        },
+        {
+          "prompt": "Slow-motion medium shot: The dog drops the tennis ball right at the SEALâ€™s boots, like: â€˜Same game. Same us.â€™ Cinematic emotional realism.",
+          "caption": "He placed itâ€¦ at his feet.\nÙˆØ¶Ø¹Ù‡Ø§â€¦ Ø¹Ù†Ø¯ Ù‚Ø¯Ù…ÙŠÙ‡"
+        },
+        {
+          "prompt": "Close-up: The SEAL kneels, crying, hugging the dog tight. The tennis ball is between them on the floor. Warm golden light, extremely emotional.",
+          "caption": "No words. Just loyalty.\nÙ„Ø§ ÙƒÙ„Ù…Ø§Øªâ€¦ ÙÙ‚Ø· ÙˆÙØ§Ø¡"
+        },
+        {
+          "prompt": "Final shot: Outside at sunrise, the SEAL throws the tennis ball and the dog sprints after it, joyful. Soft lens flare, hopeful cinematic ending.",
+          "caption": "They didnâ€™t miss a beat.\nÙ„Ù… ÙŠÙÙˆÙ‘ØªÙˆØ§ Ù„Ø­Ø¸Ø© ÙˆØ§Ø­Ø¯Ø©"
+        }
+      ]
+    },
+    {
+      "slug": "prosthetic-first-run-kid",
+      "title": "Dog Gets His First Prosthetic Leg â€” Then Runs Straight to His Kid ðŸ˜­ #shorts",
+      "description": "They said heâ€™d never run again. One prosthetic. One shaky step. And when he finally sprints toward his kidâ€¦ everyone breaks. #DogRecovery #ProstheticLeg #MiracleDog #shorts",
+      "scenes": [
+        {
+          "prompt": "Hook (first 2 seconds): Close-up of a dogâ€™s front paw with a brand-new prosthetic leg being gently tightened. The dogâ€™s face is in frame, eyes nervous but brave. Ultra-realistic, cinematic.",
+          "caption": "His new legâ€¦ felt scary.\nØ³Ø§Ù‚Ù‡ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©â€¦ ÙƒØ§Ù†Øª Ù…Ø®ÙŠÙØ©"
+        },
+        {
+          "prompt": "Wide shot: Bright vet rehab room. The dog stands in a soft harness. A child watches from the doorway holding a small blanket. Emotional realism.",
+          "caption": "He wanted to runâ€¦\nÙƒØ§Ù† ÙŠØ±ÙŠØ¯ Ø£Ù† ÙŠØ±ÙƒØ¶â€¦"
+        },
+        {
+          "prompt": "Close-up: The dog takes a first tiny step. The prosthetic taps the floor. The dog flinches, then steadies. Shallow depth of field.",
+          "caption": "Step one.\nØ§Ù„Ø®Ø·ÙˆØ© Ø§Ù„Ø£ÙˆÙ„Ù‰"
+        },
+        {
+          "prompt": "Medium shot: Therapist encourages with a gentle smile. The dog takes two more steps, wobbling, tail starting to wag. Warm cinematic lighting.",
+          "caption": "He tried again.\nØ­Ø§ÙˆÙ„ Ù…Ø±Ø© Ø£Ø®Ø±Ù‰"
+        },
+        {
+          "prompt": "Close-up: The childâ€™s eyes fill with tears, whispering the dogâ€™s name. The dog looks up and locks eyes. Emotional, ultra-realistic.",
+          "caption": "He heard his kid.\nØ³Ù…Ø¹ Ø·ÙÙ„Ù‡"
+        },
+        {
+          "prompt": "Wide shot: The harness is loosened slightly. The dog begins a slow trotâ€¦ then gains confidence. The kid takes one step forward.",
+          "caption": "Then his body remembered.\nØ«Ù… ØªØ°ÙƒÙ‘Ø± Ø¬Ø³Ø¯Ù‡"
+        },
+        {
+          "prompt": "Slow-motion: The dog breaks into a short run toward the child. The child kneels with arms open. Cinematic, emotional realism.",
+          "caption": "He ranâ€¦ to him.\nØ±ÙƒØ¶â€¦ Ù†Ø­ÙˆÙ‡"
+        },
+        {
+          "prompt": "Final close-up: The dog leans into the childâ€™s hug, calm and proud. Soft sunset light, hopeful ending.",
+          "caption": "Not a miracle. Just love + work.\nÙ„ÙŠØ³ Ù…Ø¹Ø¬Ø²Ø©â€¦ Ø¨Ù„ Ø­Ø¨ ÙˆØ¹Ù…Ù„"
+        }
+      ]
+    }
+  ]
+}

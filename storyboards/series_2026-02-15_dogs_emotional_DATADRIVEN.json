@@ -1,0 +1,137 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "dog, emotional, rescue, reunion, shorts"
+  },
+  "videos": [
+    {
+      "slug": "military-dog-reunion",
+      "title": "Soldier Returns Home... Watch His Dog's Reaction 😭 #shorts",
+      "description": "After 8 months deployed overseas, a soldier surprises his dog. The reunion will make you cry. #dog #military #reunion #emotional",
+      "scenes": [
+        {
+          "prompt": "German shepherd dog lying on porch looking sad and lonely, waiting, overcast day, melancholic mood, cinematic",
+          "caption": "8 months without his human..."
+        },
+        {
+          "prompt": "Dog's ears suddenly perking up, alert expression, sensing something familiar, dramatic lighting, cinematic",
+          "caption": "Wait... that sound..."
+        },
+        {
+          "prompt": "Soldier in military uniform walking up driveway toward house, dog starting to realize, emotional moment building, cinematic",
+          "caption": "Could it really be him?"
+        },
+        {
+          "prompt": "Dog running full speed toward soldier, pure joy expression, tears in eyes, motion blur, powerful emotional moment, cinematic",
+          "caption": "HE'S HOME! 💔"
+        },
+        {
+          "prompt": "Soldier kneeling down hugging dog tightly, both crying tears of joy, emotional reunion, heartwarming ending, cinematic",
+          "caption": "\"I missed you so much, buddy\""
+        },
+        {
+          "prompt": "Dog refusing to leave soldier's side, lying across his lap, finally at peace again, wholesome ending, cinematic",
+          "caption": "Never letting go again ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "abandoned-dog-rescue",
+      "title": "They Left Him Tied to a Tree... Then This Happened #shorts",
+      "description": "A dog abandoned by his family gets a second chance. Wait for the ending. #rescue #dog #emotional #adoption",
+      "scenes": [
+        {
+          "prompt": "Scared brown dog tied to tree with rope, shivering alone, dark rainy night, heartbreaking scene, cinematic",
+          "caption": "Left behind. Alone. Afraid."
+        },
+        {
+          "prompt": "Rescue volunteer approaching dog slowly, offering hand gently, dog cowering in fear, emotional rescue moment, cinematic",
+          "caption": "\"It's okay, you're safe now\""
+        },
+        {
+          "prompt": "Dog's eyes starting to show trust, slowly moving closer to rescuer, breakthrough moment, hopeful lighting, cinematic",
+          "caption": "First sign of hope..."
+        },
+        {
+          "prompt": "Dog being carried to rescue van, wrapped in warm blanket, looking up with grateful eyes, rescue in action, cinematic",
+          "caption": "A new beginning"
+        },
+        {
+          "prompt": "Dog cleaned up and healthy, tail wagging, playing with new loving family, transformation complete, cinematic",
+          "caption": "2 months later... 😭"
+        },
+        {
+          "prompt": "Dog sleeping peacefully in warm home, safe and loved, collar with new family name tag, happy ending, cinematic",
+          "caption": "This is what love looks like ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "elderly-dog-final-reunion",
+      "title": "17-Year-Old Dog Sees His Childhood Friend One Last Time... #shorts",
+      "description": "An elderly dog gets one final visit from the friend who grew up with him. You won't believe the reaction. #dog #emotional #reunion #friendship",
+      "scenes": [
+        {
+          "prompt": "Very old golden retriever lying weakly on dog bed, gray muzzle, tired eyes, vet setting, somber mood, cinematic",
+          "caption": "At 17 years old, time was running out..."
+        },
+        {
+          "prompt": "Young man in his 20s entering vet room nervously, holding back tears, seeing his childhood dog, emotional moment, cinematic",
+          "caption": "They hadn't seen each other in 5 years"
+        },
+        {
+          "prompt": "Old dog's ears twitching, recognizing voice from years ago, eyes opening wider, moment of recognition, cinematic",
+          "caption": "Wait... that voice..."
+        },
+        {
+          "prompt": "Elderly dog struggling to stand up, tail starting to wag slowly, determined to greet old friend, powerful moment, cinematic",
+          "caption": "He remembers. ❤️"
+        },
+        {
+          "prompt": "Young man kneeling down, hugging his elderly dog gently, both crying, reliving childhood memories, tearjerker moment, cinematic",
+          "caption": "\"Good boy. You waited for me.\""
+        },
+        {
+          "prompt": "Old dog lying peacefully in man's arms, content expression, one final moment together, bittersweet ending, cinematic",
+          "caption": "Love never forgets. 💔"
+        }
+      ]
+    },
+    {
+      "slug": "deaf-dog-sign-language",
+      "title": "Owner Learns Sign Language for Deaf Rescue Dog... The Ending 😭 #shorts",
+      "description": "When she adopted a deaf dog, she learned something beautiful. The bond they formed will melt your heart. #rescue #dog #deaf #emotional",
+      "scenes": [
+        {
+          "prompt": "White deaf dog sitting alone in shelter cage, confused and scared, unable to hear, heartbreaking scene, cinematic",
+          "caption": "Born deaf. Abandoned for being 'different'."
+        },
+        {
+          "prompt": "Woman kneeling in front of shelter cage, making hand sign for 'hello', dog not understanding yet, hopeful moment, cinematic",
+          "caption": "But she saw something special"
+        },
+        {
+          "prompt": "Montage of woman teaching dog hand signals at home, patient training sessions, slow progress, dedication shown, cinematic",
+          "caption": "Weeks of learning together..."
+        },
+        {
+          "prompt": "Woman making hand sign for 'come', deaf dog suddenly understanding and running to her excited, breakthrough moment, cinematic",
+          "caption": "And then... he understood! 💡"
+        },
+        {
+          "prompt": "Dog and woman communicating perfectly with hand signals, deep bond visible, playing together, success, cinematic",
+          "caption": "Now they speak a language all their own"
+        },
+        {
+          "prompt": "Woman making sign for 'I love you', dog licking her face happily, perfect understanding, tearjerker ending, cinematic",
+          "caption": "Love needs no words ❤️"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "series_name": "AI Tools Daily - Launch Day",
+  "date": "2026-02-17",
+  "channel": "aitools",
+  "videos": [
+    {
+      "title": "ChatGPT's Hidden Menu You've Never Used 🤯",
+      "description": "This ChatGPT feature is hidden in plain sight and it will change how you work. Most people miss this completely. #ChatGPT #AITools #ProductivityHacks",
+      "scenes": [
+        {
+          "duration": 3,
+          "prompt": "Close-up of a laptop screen showing ChatGPT interface, cursor hovering over settings icon, cinematic lighting, modern workspace background"
+        },
+        {
+          "duration": 4,
+          "prompt": "Finger clicking on hidden menu option in ChatGPT, menu expanding to reveal advanced features, clean UI design, professional tech aesthetic"
+        },
+        {
+          "duration": 4,
+          "prompt": "Screen showing before and after comparison of ChatGPT responses, split screen effect, higher quality response on right side, vibrant colors"
+        },
+        {
+          "duration": 4,
+          "prompt": "Hand typing with increased speed on keyboard, AI-generated text flowing smoothly on screen, productivity visualization, energetic vibe"
+        },
+        {
+          "duration": 3,
+          "prompt": "Satisfied user leaning back in chair, laptop displaying completed work, thumbs up gesture, modern office setting, success moment"
+        }
+      ],
+      "tags": ["ChatGPT", "AI", "productivity", "tech tips", "hidden features", "AI tools", "work smarter"],
+      "optimal_upload_time": "09:00"
+    },
+    {
+      "title": "Perplexity vs Google: The Results Are Shocking 😱",
+      "description": "I tested Perplexity AI against Google for the same search. The difference is mind-blowing. This changes everything. #Perplexity #Google #AISearch",
+      "scenes": [
+        {
+          "duration": 3,
+          "prompt": "Split screen: Perplexity AI logo on left, Google logo on right, versus symbol in center, dramatic lighting, tech showdown aesthetic"
+        },
+        {
+          "duration": 4,
+          "prompt": "Hands typing identical search query into both Perplexity and Google simultaneously, dual screens, professional workspace, fast-paced typing"
+        },
+        {
+          "duration": 5,
+          "prompt": "Google results showing traditional blue links and ads, cluttered interface, user scrolling through multiple pages, frustrated expression"
+        },
+        {
+          "duration": 5,
+          "prompt": "Perplexity showing clean AI-generated answer with sources cited, user reading with amazed expression, highlighted key points, superior UX"
+        },
+        {
+          "duration": 3,
+          "prompt": "User closing Google tab and bookmarking Perplexity, satisfied smile, laptop screen glowing, winner clear, modern office"
+        }
+      ],
+      "tags": ["Perplexity", "Google", "AI search", "comparison", "tech review", "AI vs traditional", "search engine"],
+      "optimal_upload_time": "15:00"
+    },
+    {
+      "title": "This Midjourney Prompt Formula = Perfect Images 🎨",
+      "description": "Stop wasting Midjourney credits! This prompt formula gets you exactly what you want every single time. Game changer. #Midjourney #AIArt #PromptEngineering",
+      "scenes": [
+        {
+          "duration": 3,
+          "prompt": "Midjourney interface with cursor blinking in empty prompt box, user looking frustrated at bad AI-generated images, messy workspace"
+        },
+        {
+          "duration": 4,
+          "prompt": "Hand typing structured prompt formula: [subject] + [style] + [lighting] + [composition], text appearing on screen with labels, professional tutorial vibe"
+        },
+        {
+          "duration": 4,
+          "prompt": "Before and after comparison: bad AI image on left (generic, unclear), perfect AI image on right (stunning, exactly as requested), dramatic reveal"
+        },
+        {
+          "duration": 5,
+          "prompt": "Gallery of stunning Midjourney images all generated with the formula, carousel effect, various styles (portrait, landscape, abstract), professional quality"
+        },
+        {
+          "duration": 4,
+          "prompt": "User triumphantly saving perfect AI-generated image, satisfied expression, workspace now organized and creative, success visualization"
+        }
+      ],
+      "tags": ["Midjourney", "AI art", "prompt engineering", "AI tools", "creative", "design tips", "image generation"],
+      "optimal_upload_time": "19:00"
+    },
+    {
+      "title": "Claude Writes Better Code Than ChatGPT... Here's Proof 💻",
+      "description": "I gave both Claude and ChatGPT the same coding task. Claude's output was shockingly better. See the comparison yourself. #Claude #ChatGPT #Coding",
+      "scenes": [
+        {
+          "duration": 3,
+          "prompt": "Split screen showing Claude AI and ChatGPT logos, coding challenge text appearing, dramatic tech duel setup, dark mode aesthetic"
+        },
+        {
+          "duration": 4,
+          "prompt": "Identical coding prompt being entered into both Claude and ChatGPT, user at keyboard, dual monitors setup, professional developer workspace"
+        },
+        {
+          "duration": 5,
+          "prompt": "ChatGPT generating code with basic structure, user reviewing with skeptical expression, code editor showing gaps and issues highlighted in red"
+        },
+        {
+          "duration": 5,
+          "prompt": "Claude generating cleaner code with better practices, user's eyes widening in surprise, green checkmarks appearing, superior architecture visualization"
+        },
+        {
+          "duration": 3,
+          "prompt": "User copying Claude's code, closing ChatGPT tab, satisfied nod, code running successfully with green terminal output, winner declared"
+        }
+      ],
+      "tags": ["Claude AI", "ChatGPT", "coding", "programming", "AI comparison", "developer tools", "tech review"],
+      "optimal_upload_time": "23:00"
+    }
+  ]
+}

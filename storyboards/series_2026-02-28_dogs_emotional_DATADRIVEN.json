@@ -1,0 +1,73 @@
+{
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 24,
+    "width": 480,
+    "height": 832,
+    "backend": "wangp",
+    "upscale4k": false,
+    "tags": "shorts,dog,emotional,reunion,heartwarming"
+  },
+  "videos": [
+    {
+      "title": "Army Helicopter Pilot Returns After 13 Months — His Dog Recognizes the Boots 😭 #shorts",
+      "description": "Emotional dog reunion short. Dog visible in the first 2 seconds. #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: a muddy combat boot steps onto sunlit airport tile as a trembling Belgian Malinois noses the laces, ears pinned forward, tail whipping fast. Handheld micro-shake, quick push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium wide: an Army helicopter pilot in olive flight suit kneels low, arms open, as the Malinois launches into his chest and squeaks with joy. Bright terminal windows, morning glare. Slow dolly-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Over-the-shoulder: the pilot pulls a worn unit patch from his pocket; the dog sniffs, then paws it urgently, whining. Travelers blur behind, soft bokeh lights. Static camera, gentle zoom. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Low angle: the dog circles his legs at full speed, skidding slightly on polished tile, then sits perfectly, eyes locked on his face, mouth smiling. Warm overhead lights, reflections. Slow pan. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Close-up: gloved hands clip the leash; the dog presses forehead into his palm, breathing fast, tears in the pilot’s eyes. Soft amber sunlight streaks across their faces. Camera holds steady. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium shot: the pilot lifts the dog slightly, spinning once; the Malinois clings tight, paws around his shoulders, tail a blur. Background crowd claps, soft lens flare. Slow tracking. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Insert shot: the dog tags swing against the flight suit zipper as the dog nuzzles them, then rests chin on his chest, finally calm. Quiet ambient light, shallow focus. Slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Wide final: they walk toward the exit together, dog glued to his side, occasionally bumping his knee like checking he’s real. Golden morning light, long shadows. Smooth follow-cam. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        }
+      ]
+    },
+    {
+      "title": "Deaf Rescue Dog Gets a Cochlear Implant — The First Whistle She Hears… 😭 #shorts",
+      "description": "Disability miracle / hearing moment. Dog visible in the first 2 seconds. #shorts",
+      "scenes": [
+        {
+          "prompt": "Extreme close-up: a small white-and-tan terrier mix tilts her head, eyes wide, as a vet gently adjusts a tiny bandage behind her ear; her paws knead the blanket. Clean clinic lights. Static, slow zoom. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium wide: the dog sits on a soft exam table while her young owner kneels close, holding a silver whistle but staying still; the dog watches lips, confused but hopeful. Bright daylight. Slow dolly-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Close-up: the owner exhales and blows one short whistle; the terrier’s ears twitch for the first time, pupils dilate, and her tail starts wagging in quick bursts. Quiet room, soft bokeh. Camera locked. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Low angle: the dog hops down carefully, then trots toward the owner in a straight line, head bobbing as she tracks the sound, speed increasing each step. Glossy floor reflections. Smooth tracking. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Over-the-shoulder: the owner whispers her name; the dog pauses, turns instantly, then sprints back, nails tapping fast, body wiggling wildly. Warm clinic hallway lights. Handheld follow. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Close-up: the dog presses her cheek into the owner’s mouth as if reading words, then reacts to a second whistle with a joyful bark, mouth open, tongue out. Soft rim light. Slow push-in. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Medium shot: the vet smiles and nods while the owner hugs the dog tight; the dog’s tail whips so hard her whole body sways, eyes shining with relief. Gentle daylight. Static camera. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        },
+        {
+          "prompt": "Wide final: outside the clinic at sunset, the owner blows the whistle softly; the terrier bolts across the pavement and leaps into their arms, landing perfectly. Golden hour glow. Smooth gimbal. Ultra-realistic, photorealistic, cinematic 4K, shallow depth of field, smooth motion, sharp focus"
+        }
+      ]
+    }
+  ]
+}

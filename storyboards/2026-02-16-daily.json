@@ -1,0 +1,162 @@
+{
+  "seriesTitle": "Emotional Dog Stories - Feb 16 Daily",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,rescue,emotional,transformation,heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "disabled-dog-wheelchair-2026-02-16",
+      "title": "🐕 Disabled Dog Gets Wheels... Watch What Happens Next 😭❤️",
+      "description": "Paralyzed dog gets a custom wheelchair and experiences freedom for the first time. The transformation is incredible! 🦮💙 #DogRescue #Heartwarming",
+      "scenes": [
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Paralyzed dog dragging itself across floor using only front legs, looking sad and tired, warm indoor home lighting, emotional realistic cinematic",
+          "caption": "She couldn't walk"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Veterinarian carefully fitting custom wheelchair to dog's back legs, gentle hands adjusting straps, professional clinic, hope emerging, realistic cinematic",
+          "caption": "They built her wheels"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Dog taking first wobbly steps in new wheelchair, uncertain but excited, tail starting to wag, bright therapy room, heartwarming cinematic moment",
+          "caption": "First steps!"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Dog running at full speed in wheelchair, tail wagging wildly with pure joy, outdoor park setting, golden afternoon light, exhilarating cinematic",
+          "caption": "Look at her go! 😭"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Dog playing energetically with other dogs in park, wheelchair not slowing her down, pure happiness, sunny day, joyful cinematic",
+          "caption": "Playing with friends"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Close-up: Dog's happy smiling face, tongue out, owner in background wiping tears of joy, warm golden hour lighting, emotional perfect moment cinematic",
+          "caption": "Complete happiness ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "soldier-dog-reunion-2026-02-16",
+      "title": "🎖️ Soldier Surprises Dog After 2 Years... The Reaction 💔😍",
+      "description": "After 2 years deployed, this soldier comes home to surprise his dog. The reunion will make you cry! 🎖️❤️ #MilitaryReunion #Dogs",
+      "scenes": [
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Dog lying on couch looking sadly out window, waiting, melancholic expression, soft afternoon light streaming through window, emotional realistic cinematic",
+          "caption": "2 years of waiting"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Family members gathering excitedly near front door, smiling and whispering, anticipation in the air, warm home interior, realistic cinematic",
+          "caption": "The family knew"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Soldier in military uniform slowly opening front door, gentle smile, sunlight behind, emotional homecoming moment, realistic cinematic",
+          "caption": "He's home"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Close-up: Dog's face freezing in recognition, ears perking up instantly, recognizing familiar scent, eyes widening with realization, dramatic cinematic moment",
+          "caption": "Wait... that smell!"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Dog sprinting at full speed and leaping into soldier's arms, pure explosive joy, family watching and crying, emotional reunion, realistic cinematic masterpiece",
+          "caption": "THE REUNION 😭"
+        },
+        {
+          "seconds": 2,
+          "prompt": "Close-up: Dog frantically licking soldier's face, tail spinning like helicopter propeller, soldier laughing and crying, pure love, warm lighting, perfect emotional cinematic",
+          "caption": "Best day ever! ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "blind-dog-guide-puppy-2026-02-16",
+      "title": "🦮 Blind Dog Meets New Guide Puppy... This Is Beautiful 🥺✨",
+      "description": "Blind senior dog gets a puppy companion to be his eyes. Their bond is absolutely beautiful! 🦮✨ #GuideDog #Wholesome",
+      "scenes": [
+        {
+          "seconds": 3,
+          "prompt": "Wide shot: Blind older dog carefully bumping into furniture, confused and disoriented, cloudy eyes, concerned expression, warm home interior, emotional realistic cinematic",
+          "caption": "Max lost his sight"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Owner gently bringing home adorable golden retriever puppy in arms, soft smile, introducing carefully, warm afternoon light, heartwarming cinematic",
+          "caption": "Meet your new friend"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Close-up: Puppy gently sniffing blind dog's face, tender careful introduction, blind dog's ears perking up with interest, soft natural lighting, beautiful cinematic moment",
+          "caption": "Gentle introduction"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Puppy carefully guiding blind dog around furniture obstacles, walking slowly beside him, protective and careful, home setting, heartwarming realistic cinematic",
+          "caption": "The puppy understood"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Both dogs walking together confidently, puppy leading blind dog safely, trusting partnership forming, sunny outdoor path, golden hour light, beautiful cinematic",
+          "caption": "Perfect partners 🥺"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Close-up: Blind dog and puppy sleeping peacefully curled up together, puppy's head resting protectively on older dog, soft warm lighting, pure love, perfect emotional cinematic masterpiece",
+          "caption": "Forever friends ✨"
+        }
+      ]
+    },
+    {
+      "slug": "abandoned-dog-30day-transformation-2026-02-16",
+      "title": "🏥 Abandoned Dog's Transformation in 30 Days... Incredible 😱🙏",
+      "description": "From abandoned and emaciated to healthy and loved - watch this incredible 30-day rescue transformation! 🏥💙 #DogRescue #Transformation",
+      "scenes": [
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Severely emaciated dog found in dark alley, ribs clearly visible, matted filthy fur, sad frightened eyes, harsh urban lighting, heartbreaking realistic cinematic",
+          "caption": "Day 1: Found in alley"
+        },
+        {
+          "seconds": 3,
+          "prompt": "Medium shot: Rescue team members carefully lifting weak dog into vehicle with gentle hands, compassionate faces, evening light, hope beginning, realistic emotional cinematic",
+          "caption": "Rescue team arrived"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Medium shot: First vet visit, veterinarian carefully shaving away matted fur and providing medical treatment, professional clinic, dog looking scared but safe, realistic cinematic",
+          "caption": "Day 1: Medical care"
+        },
+        {
+          "seconds": 4,
+          "prompt": "Wide shot: Day 10, dog eating proper meal for first time in months, gaining slight weight, fur cleaner, hopeful expression, clean shelter, warm lighting, progress visible realistic cinematic",
+          "caption": "Day 10: Gaining strength"
+        },
+        {
+          "seconds": 5,
+          "prompt": "Wide shot: Day 20, healthy fur growing back beautifully, dog playing happily with colorful toys, energetic and joyful, bright playroom, amazing transformation visible, inspiring cinematic",
+          "caption": "Day 20: Playing again! 😊"
+        },
+        {
+          "seconds": 5,
+          "prompt": "Wide shot: Day 30, completely transformed healthy dog with shiny coat running joyfully in sunny yard, adopted by loving family visible in background, pure happiness, golden hour light, perfect miracle cinematic masterpiece",
+          "caption": "Day 30: Forever home! 🙏"
+        }
+      ]
+    }
+  ]
+}

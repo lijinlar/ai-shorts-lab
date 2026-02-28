@@ -1,0 +1,52 @@
+{
+  "series_name": "Shelter Dog Test - 40s",
+  "default": {
+    "backend": "wangp",
+    "width": 832,
+    "height": 480,
+    "fps": 24,
+    "sceneSeconds": 5,
+    "tags": "dog, shelter, rescue, emotional, heartwarming"
+  },
+  "videos": [
+    {
+      "slug": "shelter_dog_last_day_test",
+      "title": "Shelter Dog's Last Day... Wait For The Ending 😭💔",
+      "description": "This shelter dog was about to give up hope... but then something incredible happened. #rescue #dog #shelter",
+      "scenes": [
+        {
+          "prompt": "A sad brown and white dog sits alone in a small shelter kennel, head down, eyes looking defeated. The concrete walls are gray and cold. Dim fluorescent lighting casts harsh shadows. Shot through the chain-link fence showing the isolation. High dynamic range captures the somber mood and the dog's expressive eyes.",
+          "seconds": 5
+        },
+        {
+          "prompt": "The same shelter dog lies curled up on a thin blanket in the corner of the kennel, barely moving. Its eyes slowly close as if giving up hope. Other dogs barking faintly in the background. Medium close-up shot showing the dog's defeated posture. Soft focus on the background, sharp focus on the dog. Emotional, melancholic atmosphere.",
+          "seconds": 5
+        },
+        {
+          "prompt": "A shelter worker approaches the kennel door with papers in hand. The dog's ears perk up slightly but cautiously. The fluorescent lights reflect off the metal kennel door being unlocked. Wide angle shot showing the entire kennel and the approaching figure. Natural documentary-style cinematography with high dynamic range.",
+          "seconds": 5
+        },
+        {
+          "prompt": "The kennel door swings open and the dog looks up with confused, hopeful eyes. The shelter worker kneels down and extends a gentle hand. Sunlight from a window creates a warm glow. Medium shot at dog's eye level showing the emotional connection beginning. Shallow depth of field with the worker slightly blurred, dog in sharp focus.",
+          "seconds": 5
+        },
+        {
+          "prompt": "A young family with children waits in a bright adoption room, smiling with anticipation. Colorful dog toys and a new collar sit on a table. Warm, inviting lighting with natural sunlight streaming through windows. Wide shot showing the welcoming space and excited faces. High dynamic range captures the joy and warmth of the moment.",
+          "seconds": 5
+        },
+        {
+          "prompt": "The shelter dog cautiously enters the adoption room and freezes, seeing the waiting family. Its tail starts to wag slowly, then faster. The children reach out their hands gently. Medium close-up showing the dog's transformation from fear to hope. Soft natural lighting, shallow depth of field focuses on the dog's changing expression.",
+          "seconds": 5
+        },
+        {
+          "prompt": "The family surrounds the dog with gentle pets and scratches. The dog's tail wags furiously now, tongue out in a happy smile. Pure joy radiates from everyone. Close-up shot showing hands petting the dog and its ecstatic face. Warm, golden hour lighting creates a magical atmosphere. High dynamic range, crisp details.",
+          "seconds": 5
+        },
+        {
+          "prompt": "The dog walks out of the shelter with its new family, tail wagging high, head up proud. Blue sky and sunshine above. A new leash and collar shine brightly. Wide shot from behind showing them walking toward a bright future together. Uplifting cinematography with vibrant colors and perfect lighting. High dynamic range, cinematic quality.",
+          "seconds": 5
+        }
+      ]
+    }
+  ]
+}

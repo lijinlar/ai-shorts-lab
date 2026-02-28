@@ -1,0 +1,49 @@
+{
+  "seriesTitle": "Lost Dog 800km - Video 3 Only",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,rescue,emotional,reunion"
+  },
+  "videos": [
+    {
+      "slug": "lost-dog-800km",
+      "title": "He Drove 800km to Find His Lost Dog | The Ending 😭 #shorts",
+      "description": "When his dog went missing during a vacation, he never gave up searching. 6 months later... #dog #lostdog #reunion #emotional",
+      "scenes": [
+        {
+          "prompt": "Wide shot: A man putting up 'LOST DOG' posters on a telephone pole in a rural area. Overcast sky, lonely road. Desperate, realistic, cinematic.",
+          "caption": "Jake vanished during our road trip.\nاختفى جيك خلال رحلتنا"
+        },
+        {
+          "prompt": "Close-up: Hands holding a worn photo of a happy border collie. Tears falling on the picture. Soft indoor lighting. Deeply emotional, cinematic.",
+          "caption": "6 months. No trace.\n6 أشهر. لا أثر"
+        },
+        {
+          "prompt": "Medium shot: A phone screen showing a grainy photo sent by a stranger - 'Is this your dog?' Text visible. Hands shaking holding the phone. Shocking moment, realistic.",
+          "caption": "Then someone sent this photo.\nثم أرسل شخص ما هذه الصورة"
+        },
+        {
+          "prompt": "Wide shot: A car driving through mountain roads, speedometer showing high speed. Dramatic landscape, determination. Road movie style, cinematic, urgent.",
+          "caption": "800 kilometers. He drove all night.\n800 كيلومتر. قاد طوال الليل"
+        },
+        {
+          "prompt": "Medium shot: A scruffy, thin border collie tied to a fence outside a small farm. Coat dirty, but ears perked up at approaching footsteps. Dawn lighting. Tense, emotional.",
+          "caption": "There he was.\nكان هناك"
+        },
+        {
+          "prompt": "Wide shot: The dog breaking free from the rope and sprinting full speed toward the man, jumping into his arms. Man falling backward from the impact, both rolling in the grass. Beautiful sunrise light. Pure joy, cinematic.",
+          "caption": "Jake remembered everything.\nجيك تذكر كل شيء"
+        },
+        {
+          "prompt": "Close-up: Man and dog nose-to-nose, both eyes closed, peaceful moment. Golden hour warm light. Perfect ending, deeply emotional, cinematic masterpiece.",
+          "caption": "800km was nothing.\n800 كم لم تكن شيئاً"
+        }
+      ]
+    }
+  ]
+}

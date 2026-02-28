@@ -1,0 +1,137 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "dog, emotional, rescue, reunion, shorts"
+  },
+  "videos": [
+    {
+      "slug": "navy-seal-dog-reunion",
+      "title": "🪖🐕 Navy SEAL Returns After 3 Years - His Dog's Reaction Left Everyone In Tears 😭 #shorts",
+      "description": "He was deployed for 3 years. No calls. No visits. When he finally walked through that door, his dog's reaction proved dogs never forget. #MilitaryDog #NavySEAL #DogReunion #Heartwarming",
+      "scenes": [
+        {
+          "prompt": "Navy SEAL soldier in full uniform saying goodbye to golden retriever puppy at front door, dog whimpering and confused, bittersweet farewell, cinematic",
+          "caption": "3 years ago. He said goodbye to a puppy."
+        },
+        {
+          "prompt": "Golden retriever now fully grown, sitting by the door every day waiting, head tilted listening for footsteps, loyal and patient, cinematic",
+          "caption": "Every. Single. Day. She waited."
+        },
+        {
+          "prompt": "Navy SEAL soldier quietly approaching front door after 3 years, still in uniform, exhausted but emotional, heart pounding, cinematic",
+          "caption": "Then one morning..."
+        },
+        {
+          "prompt": "Dog's ears perking up suddenly, nose twitching as she catches his scent through the door, entire body trembling with recognition, cinematic",
+          "caption": "She smelled him. Before the door even opened."
+        },
+        {
+          "prompt": "Door opens, soldier and dog seeing each other after 3 years, dog exploding with joy, jumping and spinning uncontrollably, man crying, cinematic",
+          "caption": "\"SHE REMEMBERED ME\" 💔"
+        },
+        {
+          "prompt": "Soldier collapsed on floor sobbing, dog frantically licking tears from his face, never letting go, pure reunion love, cinematic",
+          "caption": "Dogs never forget. Never. ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "senior-dog-regains-sight",
+      "title": "👁️😭 12 Years In Darkness... Senior Dog Gets Surgery & Sees His Family For The First Time 💔 #shorts",
+      "description": "This 14-year-old dog was born with cataracts. He'd never seen his owner's face. One surgery changed everything — and nobody was ready for his reaction. #BlindDog #CataractSurgery #SeniorDog #Miracle",
+      "scenes": [
+        {
+          "prompt": "Old senior dog with completely white clouded eyes, navigating familiar home slowly by memory and smell, peaceful but blind, cinematic",
+          "caption": "14 years old. Born blind. Never seen a single thing."
+        },
+        {
+          "prompt": "Veterinary ophthalmologist examining senior dog's eyes with light, family watching anxiously, hope mixed with fear, cinematic",
+          "caption": "\"There's a chance. One surgery.\""
+        },
+        {
+          "prompt": "Post-surgery senior dog with soft bandages wrapped around eyes, lying peacefully, family sitting vigil beside him overnight, cinematic",
+          "caption": "They waited all night"
+        },
+        {
+          "prompt": "Vet carefully unwrapping bandages from senior dog's eyes, family holding hands, breath held, moment of truth arriving, cinematic",
+          "caption": "The moment of truth..."
+        },
+        {
+          "prompt": "Senior dog's eyes revealed as clear and seeing for first time ever, blinks slowly, then looks directly at owner's face, shock and wonder, cinematic",
+          "caption": "\"Is that... you?\""
+        },
+        {
+          "prompt": "Old senior dog pressing his face against owner's face, seeing him for the first and possibly last time, beautiful painful perfect moment, crying family, cinematic",
+          "caption": "At 14, he finally saw the person who loved him most. ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "abandoned-mom-9-puppies-snow",
+      "title": "🐕😢 Found Abandoned In Snow With 9 Newborn Puppies - 6 Weeks Later 😭 #shorts",
+      "description": "Rescuers found a mother dog alone in a snowstorm with 9 newborn puppies. All 10 were near death. What happened 6 weeks later will restore your faith in humanity. #RescueDog #Puppies #DogRescue #Heartwarming",
+      "scenes": [
+        {
+          "prompt": "Exhausted mother dog lying in snowstorm trying to shield 9 tiny newborn puppies with her body, freezing temperatures, desperate survival, cinematic",
+          "caption": "Found alone. 9 newborn puppies. -10°C."
+        },
+        {
+          "prompt": "Rescue workers rushing to scene in snow, gently collecting hypothermic puppies, wrapping mom in emergency blankets, race against time, cinematic",
+          "caption": "Rescuers had minutes to save them"
+        },
+        {
+          "prompt": "All 10 dogs huddled together in rescue center warming incubator, puppies nursing, mother watching her babies survive, relief, cinematic",
+          "caption": "All 10 made it through the night"
+        },
+        {
+          "prompt": "Week 3: Puppies eyes opening for first time, stumbling around, mother gently corralling them, warmth and safety, new life, cinematic",
+          "caption": "Week 3: 9 tiny eyes opening for the first time"
+        },
+        {
+          "prompt": "Week 6: All 9 healthy fat puppies tumbling over each other playing, mother dog watching proudly, complete transformation, cinematic",
+          "caption": "Week 6: From death's door to THIS"
+        },
+        {
+          "prompt": "Mother dog with all 9 puppies getting adopted by loving families, mom wagging tail watching each puppy leave to forever homes, bittersweet triumph, cinematic",
+          "caption": "Every single one found a forever home. 🐾❤️"
+        }
+      ]
+    },
+    {
+      "slug": "military-k9-retirement-ceremony",
+      "title": "🎖️🐕 Police K9 Retires After 8 Years - The Farewell Ceremony Will Break You 😭 #shorts",
+      "description": "After 8 years protecting his city, K9 Rex gets his retirement ceremony. The moment his handler breaks down is something you'll never forget. #K9 #PoliceDog #RetiredK9 #ServiceDog",
+      "scenes": [
+        {
+          "prompt": "Belgian Malinois police K9 in full tactical vest working patrol, powerful and focused, partnership with human handler, years of service, cinematic",
+          "caption": "8 years. 400+ arrests. 2 lives saved."
+        },
+        {
+          "prompt": "K9 Rex getting older, slightly grey muzzle now, still wearing his badge, still proud, nearing end of career, bittersweet cinematic",
+          "caption": "But time catches up with everyone"
+        },
+        {
+          "prompt": "Full police department assembled in formal ceremony, rows of officers in dress uniform, K9 Rex at center with his handler, cinematic",
+          "caption": "The entire department came to say goodbye"
+        },
+        {
+          "prompt": "Officer reading K9 Rex's service record aloud, listing every mission, every save, voice cracking with emotion, crowd silent, cinematic",
+          "caption": "\"400 operations. 2 lives saved. Zero hesitation.\""
+        },
+        {
+          "prompt": "Handler removing K9 Rex's tactical badge and police vest for the last time, dog looking up at him confused, handler tears streaming, cinematic",
+          "caption": "When the vest came off... he lost it 💔"
+        },
+        {
+          "prompt": "Retired K9 Rex lying peacefully in his new home, finally resting after 8 years, handler sitting beside him, forever together, cinematic",
+          "caption": "\"You earned your rest, brother.\" ❤️🐾"
+        }
+      ]
+    }
+  ]
+}

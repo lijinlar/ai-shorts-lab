@@ -1,0 +1,107 @@
+{
+  "seriesTitle": "Emotional Dog Stories - Feb 14",
+  "default": {
+    "sceneSeconds": 3,
+    "fps": 8,
+    "width": 1080,
+    "height": 1920,
+    "backend": "svd",
+    "upscale4k": false,
+    "tags": "shorts,dog,rescue,emotional,reunion"
+  },
+  "videos": [
+    {
+      "slug": "blind-dog-reunion",
+      "title": "Blind Dog Hears Owner's Voice After 2 Years | Wait for the end #shorts",
+      "description": "A blind rescue dog recognizes his owner's voice after 2 years apart. What happens next will make you cry. #dog #rescue #emotional #reunion",
+      "scenes": [
+        {
+          "prompt": "Wide shot: A small animal shelter room with dim lighting. A blind golden retriever sits quietly in the corner, ears perked up but eyes clouded white. Cinematic, emotional, realistic.",
+          "caption": "Max had been blind for 3 years.\nماكس كان أعمى لمدة 3 سنوات"
+        },
+        {
+          "prompt": "Close-up: The blind dog's face, ears suddenly alert and twitching. Head tilting slightly as if recognizing something. Soft golden hour lighting. Cinematic, emotional.",
+          "caption": "Then he heard a voice...\nثم سمع صوتاً..."
+        },
+        {
+          "prompt": "Medium shot: A man in his 30s kneeling down, arms open, tears streaming down his face. Warm afternoon light through a window. Emotional, realistic, cinematic.",
+          "caption": "His owner, who searched for 2 years.\nصاحبه الذي بحث عنه لمدة سنتين"
+        },
+        {
+          "prompt": "Wide shot: The blind dog suddenly springs up and runs directly toward the voice, stumbling slightly but determined. Emotional reunion moment. Cinematic, heartwarming.",
+          "caption": "Max didn't hesitate.\nماكس لم يتردد"
+        },
+        {
+          "prompt": "Close-up: The dog's paws landing on the owner's chest, nuzzling into his neck. Man crying, holding the dog tight. Golden warm lighting. Extremely emotional, cinematic.",
+          "caption": "He remembered. He never forgot.\nتذكر. لم ينسَ أبداً"
+        }
+      ]
+    },
+    {
+      "slug": "shelter-dog-last-day",
+      "title": "Shelter Dog's Last Day... Then The Phone Rang #shorts #dog #rescue",
+      "description": "A shelter dog scheduled to be put down gets a miracle call. You won't believe what happens. #rescue #emotional #adopt",
+      "scenes": [
+        {
+          "prompt": "Wide shot: A grey concrete shelter hallway. A sad-looking pit bull sits alone in the last kennel, head down. Cold fluorescent lighting. Somber, realistic, cinematic.",
+          "caption": "Day 30. No one wanted Rocky.\nاليوم 30. لا أحد أراد روكي"
+        },
+        {
+          "prompt": "Close-up: A shelter worker's hand holding a clipboard with 'FINAL DAY' stamped in red. Sad expression visible in background. Documentary style, emotional.",
+          "caption": "Tomorrow was his last day.\nغداً كان يومه الأخير"
+        },
+        {
+          "prompt": "Medium shot: The dog looking up at a shelter worker through kennel bars, tail making one small hopeful wag. Soft sad lighting. Heartbreaking, cinematic, realistic.",
+          "caption": "He still tried to smile.\nما زال يحاول أن يبتسم"
+        },
+        {
+          "prompt": "Close-up: A phone ringing on a desk, shelter worker grabbing it with surprised expression. Bright morning light streaming in. Hope emerging, cinematic.",
+          "caption": "Then at 8:47 AM, the phone rang.\nثم في الساعة 8:47 صباحاً، رن الهاتف"
+        },
+        {
+          "prompt": "Wide shot: Rocky jumping excitedly as the kennel door opens, tail wagging furiously. A family with two kids kneeling down to greet him. Bright, joyful, warm lighting. Heartwarming, cinematic.",
+          "caption": "A family had seen his photo online.\nعائلة رأت صورته على الإنترنت"
+        },
+        {
+          "prompt": "Close-up: Rocky in a car window, tongue out, wind blowing his ears back, absolute joy on his face. Sunset golden light. Pure happiness, cinematic, emotional payoff.",
+          "caption": "He got his second chance.\nحصل على فرصته الثانية"
+        }
+      ]
+    },
+    {
+      "slug": "lost-dog-800km",
+      "title": "He Drove 800km to Find His Lost Dog | The Ending 😭 #shorts",
+      "description": "When his dog went missing during a vacation, he never gave up searching. 6 months later... #dog #lostdog #reunion #emotional",
+      "scenes": [
+        {
+          "prompt": "Wide shot: A man putting up 'LOST DOG' posters on a telephone pole in a rural area. Overcast sky, lonely road. Desperate, realistic, cinematic.",
+          "caption": "Jake vanished during our road trip.\nاختفى جيك خلال رحلتنا"
+        },
+        {
+          "prompt": "Close-up: Hands holding a worn photo of a happy border collie. Tears falling on the picture. Soft indoor lighting. Deeply emotional, cinematic.",
+          "caption": "6 months. No trace.\n6 أشهر. لا أثر"
+        },
+        {
+          "prompt": "Medium shot: A phone screen showing a grainy photo sent by a stranger - 'Is this your dog?' Text visible. Hands shaking holding the phone. Shocking moment, realistic.",
+          "caption": "Then someone sent this photo.\nثم أرسل شخص ما هذه الصورة"
+        },
+        {
+          "prompt": "Wide shot: A car driving through mountain roads, speedometer showing high speed. Dramatic landscape, determination. Road movie style, cinematic, urgent.",
+          "caption": "800 kilometers. He drove all night.\n800 كيلومتر. قاد طوال الليل"
+        },
+        {
+          "prompt": "Medium shot: A scruffy, thin border collie tied to a fence outside a small farm. Coat dirty, but ears perked up at approaching footsteps. Dawn lighting. Tense, emotional.",
+          "caption": "There he was.\nكان هناك"
+        },
+        {
+          "prompt": "Wide shot: The dog breaking free from the rope and sprinting full speed toward the man, jumping into his arms. Man falling backward from the impact, both rolling in the grass. Beautiful sunrise light. Pure joy, cinematic.",
+          "caption": "Jake remembered everything.\nجيك تذكر كل شيء"
+        },
+        {
+          "prompt": "Close-up: Man and dog nose-to-nose, both eyes closed, peaceful moment. Golden hour warm light. Perfect ending, deeply emotional, cinematic masterpiece.",
+          "caption": "800km was nothing.\n800 كم لم تكن شيئاً"
+        }
+      ]
+    }
+  ]
+}

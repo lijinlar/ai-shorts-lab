@@ -1,0 +1,137 @@
+{
+  "default": {
+    "backend": "svd",
+    "fps": 15,
+    "sceneSeconds": 3,
+    "width": 1080,
+    "height": 1920,
+    "upscale4k": false,
+    "tags": "dog, emotional, rescue, reunion, shorts"
+  },
+  "videos": [
+    {
+      "slug": "deaf-dog-hears-owner",
+      "title": "Deaf Dog Gets Hearing Aids... Her Reaction When Owner Calls Her Name 😭 #shorts",
+      "description": "Born deaf, this dog never heard her owner's voice. Then everything changed. Her first reaction will make you cry. #dog #deaf #miracle #emotional",
+      "scenes": [
+        {
+          "prompt": "Beautiful white husky sitting outdoors, owner calling her name but dog not responding, watching but can't hear, heartbreaking scene, cinematic",
+          "caption": "She was born deaf. Never heard a sound."
+        },
+        {
+          "prompt": "Veterinarian carefully fitting special hearing device on dog's ears, high-tech canine hearing aid, hopeful moment, cinematic",
+          "caption": "Then her owner got her hearing aids"
+        },
+        {
+          "prompt": "Vet turning on the device, dog's ears perking up slightly, first sounds entering her world, confusion and wonder, cinematic",
+          "caption": "The moment they turn on..."
+        },
+        {
+          "prompt": "Owner kneeling down and softly calling dog's name for first time dog can hear it, dog's head tilting in surprise, cinematic",
+          "caption": "\"Luna... can you hear me?\""
+        },
+        {
+          "prompt": "Dog's eyes widening in shock and recognition, realizing she's hearing owner's voice, ears moving to locate sound, magical moment, cinematic",
+          "caption": "Wait... is that YOUR voice?! 💔"
+        },
+        {
+          "prompt": "Dog leaping into owner's arms, crying tears of joy, hearing 'I love you' for first time ever, powerful reunion, cinematic",
+          "caption": "\"I finally know what you sound like!\" ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "military-homecoming-surprise",
+      "title": "Soldier Missing for 2 Years... Watch His Dog's Reaction 💔 #shorts",
+      "description": "After 2 years deployed, this soldier surprises his dog. What happens next proves dogs never forget. #military #reunion #dog #emotional",
+      "scenes": [
+        {
+          "prompt": "Golden retriever sitting by window every day, waiting for owner who left for military deployment, loyal and patient, cinematic",
+          "caption": "2 years. She waited every single day."
+        },
+        {
+          "prompt": "Family preparing surprise, soldier hiding outside front door in military uniform, dog unaware in living room, anticipation building, cinematic",
+          "caption": "But today is different..."
+        },
+        {
+          "prompt": "Front door slowly opening, dog looking up curiously from across room, not recognizing at first, confused expression, cinematic",
+          "caption": "\"Who's that..?\""
+        },
+        {
+          "prompt": "Dog's nose starting to pick up familiar scent, body going still, recognition dawning, ears perking up, powerful moment, cinematic",
+          "caption": "Wait... that smell..."
+        },
+        {
+          "prompt": "Dog exploding into full sprint across room, crying and howling with joy, 2 years of waiting ending, pure emotion, cinematic",
+          "caption": "\"IT'S YOU!! YOU'RE HOME!!\" 😭"
+        },
+        {
+          "prompt": "Soldier and dog rolling on floor together, dog licking soldier's face, both crying, unbreakable bond proven, cinematic",
+          "caption": "Dogs never forget the ones they love ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "abandoned-pregnant-dog",
+      "title": "They Found Her Abandoned and Pregnant... 3 Weeks Later... 😭 #shorts",
+      "description": "Rescuers found a pregnant dog abandoned in a cardboard box. What happened next restored faith in humanity. #rescue #puppies #dog #emotional",
+      "scenes": [
+        {
+          "prompt": "Pregnant dog shivering in cardboard box by roadside in rain, scared and alone, heavily pregnant, heartbreaking discovery, cinematic",
+          "caption": "Found in a box. Pregnant. Left to die."
+        },
+        {
+          "prompt": "Rescue worker gently wrapping dog in blanket, lifting her to safety, dog looking up with grateful eyes, first act of kindness, cinematic",
+          "caption": "A rescue worker found her just in time"
+        },
+        {
+          "prompt": "Dog in warm rescue shelter, being examined by vet, getting food and water, starting to trust humans again, cinematic",
+          "caption": "She was so scared of people..."
+        },
+        {
+          "prompt": "Three weeks later, dog giving birth to tiny puppies in safe foster home, surrounded by loving humans, miracle of life, cinematic",
+          "caption": "3 weeks later..."
+        },
+        {
+          "prompt": "Mother dog nursing five healthy puppies, all safe and warm, proud mama looking at camera, transformation complete, cinematic",
+          "caption": "All 5 puppies survived! 💔"
+        },
+        {
+          "prompt": "Mama dog and all puppies adopted into loving homes, family photo with all of them together, happy ending, cinematic",
+          "caption": "Every single one found their forever home ❤️"
+        }
+      ]
+    },
+    {
+      "slug": "senior-dog-adopted",
+      "title": "15-Year-Old Dog Spent His Whole Life in Shelter... Then This Happened 😭 #shorts",
+      "description": "This senior dog never knew what a home felt like. On his 15th birthday, a miracle happened. #shelter #senior #adoption #emotional",
+      "scenes": [
+        {
+          "prompt": "Old gray-muzzled lab mix lying in shelter kennel, tired eyes, spent entire 15 years in shelter never adopted, devastating reality, cinematic",
+          "caption": "15 years. His ENTIRE life in a shelter."
+        },
+        {
+          "prompt": "Shelter throwing small birthday party for old dog with cake, volunteers crying, nobody thinking he'll ever leave, bittersweet celebration, cinematic",
+          "caption": "They threw him a birthday party..."
+        },
+        {
+          "prompt": "Elderly woman in wheelchair approaching kennel slowly, volunteers watching nervously, unexpected visitor, hopeful but cautious, cinematic",
+          "caption": "Then SHE walked in"
+        },
+        {
+          "prompt": "Old dog and elderly woman making eye contact, instant recognition of kindred spirits, both lonely souls finding each other, magical connection, cinematic",
+          "caption": "Two old souls... perfect match 💔"
+        },
+        {
+          "prompt": "Dog taking his first steps out of shelter after 15 years, woman guiding his leash, volunteers cheering and crying, freedom at last, cinematic",
+          "caption": "First time outside those walls in 15 years"
+        },
+        {
+          "prompt": "Dog sleeping peacefully in soft bed at home for first time ever, woman's hand gently petting him, both finally found family, cinematic",
+          "caption": "It's never too late for a happy ending ❤️"
+        }
+      ]
+    }
+  ]
+}
