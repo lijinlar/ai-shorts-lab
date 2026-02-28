@@ -15,7 +15,8 @@ SCOPES = [
 
 def main() -> None:
     root = Path(__file__).resolve().parents[1]
-    secrets = Path(r"C:\Users\lijin\.openclaw\secrets\youtube.oauth.json")
+    from config_loader import get_oauth_credentials
+    secrets = get_oauth_credentials()
     token_path = root / "out" / "youtube_token.json"
     token_path.parent.mkdir(exist_ok=True)
 

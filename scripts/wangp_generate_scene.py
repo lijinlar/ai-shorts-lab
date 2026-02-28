@@ -19,7 +19,8 @@ if sys.platform == 'win32':
     sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8', errors='replace', line_buffering=True)
     sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding='utf-8', errors='replace', line_buffering=True)
 
-WAN2GP_DIR = Path(r"C:\Users\lijin\.openclaw\workspace\Wan2GP")
+from config_loader import get_wangp_dir
+WAN2GP_DIR = get_wangp_dir()
 WANGP_PYTHON = WAN2GP_DIR / "venv" / "Scripts" / "python.exe"
 OUTPUTS_DIR = WAN2GP_DIR / "outputs"
 

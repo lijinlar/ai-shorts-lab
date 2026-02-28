@@ -1,0 +1,12 @@
+# ai-shorts-lab configuration
+# Copy this file to config.yaml and fill in your paths.
+# config.yaml is gitignored — never commit it.
+
+# Path to your local WanGP installation
+wangp:
+  dir: "C:/path/to/Wan2GP"
+
+# Path to your YouTube OAuth2 client credentials JSON
+# Download from: Google Cloud Console → APIs & Services → Credentials → OAuth 2.0 Client ID
+youtube:
+  oauth_credentials: "C:/path/to/youtube.oauth.json"

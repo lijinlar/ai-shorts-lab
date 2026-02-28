@@ -77,6 +77,31 @@ pip install -r requirements.txt
 
 ---
 
+## Configuration
+
+All user-specific paths live in `config.yaml`. Copy the example and fill in your paths:
+
+```bash
+cp config.example.yaml config.yaml
+```
+
+Then edit `config.yaml`:
+
+```yaml
+# Path to your local WanGP installation
+wangp:
+  dir: "C:/path/to/Wan2GP"
+
+# Path to your YouTube OAuth2 client credentials JSON
+# Download from: Google Cloud Console → APIs & Services → Credentials → OAuth 2.0 Client ID
+youtube:
+  oauth_credentials: "C:/path/to/youtube.oauth.json"
+```
+
+> `config.yaml` is gitignored — never committed. `config.example.yaml` is the safe template.
+
+---
+
 ## WanGP Setup
 
 WanGP is the video generation backend. It runs locally on your GPU using the Wan2.1 model.
@@ -136,8 +161,13 @@ This opens the WanGP UI. Generate a test clip to confirm your GPU setup is worki
 2. Create a new project
 3. Enable the **YouTube Data API v3**
 4. Go to **APIs & Services → Credentials**
-5. Create **OAuth 2.0 Client ID** → Desktop app
-6. Download the JSON file and save it as `client_secret.json` in the project root
+5. Create **OAuth 2.0 Client ID** → Application type: **Desktop app**
+6. Download the JSON file — save it anywhere on your machine (e.g. `C:/secrets/youtube.oauth.json`)
+7. Set the path in your `config.yaml`:
+   ```yaml
+   youtube:
+     oauth_credentials: "C:/secrets/youtube.oauth.json"
+   ```
 
 ### 2. Authenticate
 
@@ -145,7 +175,7 @@ This opens the WanGP UI. Generate a test clip to confirm your GPU setup is worki
 python scripts/youtube_auth.py --channel main
 ```
 
-This opens a browser window to authorize your YouTube account. The token is saved to `out/youtube_token.json`.
+This opens a browser window to authorize your YouTube account. The token is saved to `out/youtube_token.json` and reused for future runs.
 
 For multiple channels:
 

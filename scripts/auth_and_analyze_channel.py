@@ -22,7 +22,8 @@ SCOPES = [
 
 def get_or_create_creds(token_name: str) -> Credentials:
     root = Path(__file__).resolve().parents[1]
-    secrets = Path(r"C:\Users\lijin\.openclaw\secrets\youtube.oauth.json")
+    from config_loader import get_oauth_credentials
+    secrets = get_oauth_credentials()
     token_path = root / "out" / f"youtube_token_{token_name}.json"
     token_path.parent.mkdir(exist_ok=True)
 

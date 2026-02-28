@@ -15,12 +15,14 @@ import json
 import subprocess
 from pathlib import Path
 
-wangp_dir = Path(r"C:\Users\lijin\.openclaw\workspace\Wan2GP")
+from config_loader import get_wangp_dir, get_project_root
+wangp_dir = get_wangp_dir()
 sys.path.insert(0, str(wangp_dir))
 from generate_video import generate_video
 
-# Load storyboard
-storyboard_path = Path("C:/Users/lijin/Projects/t2v-shorts-lab/storyboards/series_2026-02-17_finance.json")
+# Load storyboard — update this path to your storyboard file
+ROOT = get_project_root()
+storyboard_path = ROOT / "storyboards" / "series_finance.json"
 data = json.loads(storyboard_path.read_text(encoding='utf-8'))
 
 print("\n" + "="*70)
@@ -41,7 +43,7 @@ for video_idx, video_data in enumerate(data["videos"], 1):
     
     # Generate scenes
     wangp_outputs = wangp_dir / "outputs"
-    temp_dir = Path("C:/Users/lijin/Projects/t2v-shorts-lab/temp") / video_data['slug']
+    temp_dir = ROOT / "temp" / video_data['slug']
     temp_dir.mkdir(parents=True, exist_ok=True)
     
     scene_files = []
@@ -74,7 +76,7 @@ for video_idx, video_data in enumerate(data["videos"], 1):
     print(f"\n✓ All {len(scene_files)} scenes generated!")
     
     # Combine scenes
-    out_dir = Path("C:/Users/lijin/Projects/t2v-shorts-lab/out/finance")
+    out_dir = ROOT / "out" / "finance"
     out_dir.mkdir(parents=True, exist_ok=True)
     combined_path = out_dir / f"{video_data['slug']}_combined.mp4"
     

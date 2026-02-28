@@ -16,7 +16,9 @@ import json
 import subprocess
 from pathlib import Path
 
-wangp_dir = Path(r"C:\Users\lijin\.openclaw\workspace\Wan2GP")
+from config_loader import get_wangp_dir, get_project_root
+ROOT = get_project_root()
+wangp_dir = get_wangp_dir()
 sys.path.insert(0, str(wangp_dir))
 from generate_video import generate_video
 
@@ -51,7 +53,7 @@ def generate_and_upload_video(video_data, channel_token, output_dir):
     
     # Generate scenes
     wangp_outputs = wangp_dir / "outputs"
-    temp_dir = Path(f"C:/Users/lijin/Projects/t2v-shorts-lab/temp/{video_data['slug']}")
+    temp_dir = ROOT / "temp" / video_data['slug']
     temp_dir.mkdir(parents=True, exist_ok=True)
     
     scene_files = []

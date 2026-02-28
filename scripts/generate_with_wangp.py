@@ -13,7 +13,8 @@ import glob
 from pathlib import Path
 
 # Add Wan2GP to path
-WAN2GP_DIR = Path(r"C:\Users\lijin\.openclaw\workspace\Wan2GP")
+from config_loader import get_wangp_dir
+WAN2GP_DIR = get_wangp_dir()
 sys.path.insert(0, str(WAN2GP_DIR))
 
 def clean_outputs_directory():

@@ -18,7 +18,8 @@ if sys.platform == 'win32':
     import io
     sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8', errors='replace', line_buffering=True)
 
-WAN2GP_OUTPUTS = Path(r"C:\Users\lijin\.openclaw\workspace\Wan2GP\outputs")
+from config_loader import get_wangp_dir
+WAN2GP_OUTPUTS = get_wangp_dir() / "outputs"
 PROCESSED_DIR = Path("out/processed_scenes")
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 

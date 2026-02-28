@@ -12,7 +12,8 @@ SCOPES = ["https://www.googleapis.com/auth/youtube.force-ssl", "https://www.goog
 
 def main():
     root = Path(__file__).resolve().parents[1]
-    secrets = Path(r"C:\Users\lijin\.openclaw\secrets\youtube.oauth.json")
+    from config_loader import get_oauth_credentials
+    secrets = get_oauth_credentials()
     
     # Fresh auth with full scope
     flow = InstalledAppFlow.from_client_secrets_file(str(secrets), SCOPES)

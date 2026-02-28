@@ -4,6 +4,9 @@ out/
 temp/
 test_output/
 
+# User config — contains local paths, never commit
+config.yaml
+
 # Auth tokens — never commit these
 out/youtube_token*.json
 gmail_token*.json

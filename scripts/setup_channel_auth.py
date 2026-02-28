@@ -26,18 +26,15 @@ def authenticate_channel(token_name):
         token_name: Name of the token file (e.g., 'aitools', 'finance', 'sleepsounds')
     """
     root = Path(__file__).resolve().parents[1]
-    secrets = Path(r"C:\Users\lijin\.openclaw\secrets\youtube.oauth.json")
-    
+    from config_loader import get_oauth_credentials
+    secrets = get_oauth_credentials()
+
     if token_name == "main":
         token_path = root / "out" / "youtube_token.json"
     else:
         token_path = root / "out" / f"youtube_token_{token_name}.json"
-    
+
     token_path.parent.mkdir(exist_ok=True)
-    
-    if not secrets.exists():
-        print(f"ERROR: Missing credentials at {secrets}")
-        return False
     
     print(f"\n{'='*70}")
     print(f"Authenticating channel: {token_name}")
