@@ -68,8 +68,8 @@ YouTube upload               ← uploads as public Short via YouTube API
 ## Installation
 
 ```bash
-git clone https://github.com/lijinlar/wan2shorts
-cd wan2shorts
+git clone https://github.com/lijinlar/ai-shorts-lab
+cd ai-shorts-lab
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -198,7 +198,7 @@ This switches to the 1.3B parameter model and reduces inference steps — much l
 ## Project Structure
 
 ```
-wan2shorts/
+ai-shorts-lab/
 ├── scripts/
 │   ├── full_daily_pipeline.py          # Main entry point — runs the full pipeline
 │   ├── generate_shorts_wangp.py        # Core: storyboard → video via WanGP
