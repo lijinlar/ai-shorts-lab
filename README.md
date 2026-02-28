@@ -1,4 +1,4 @@
-# wan2shorts 🐕📱
+# ai-shorts-lab 🐕📱
 
 > Turn text prompts into viral YouTube Shorts — fully automated, runs daily.
 
@@ -6,9 +6,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%28CUDA%29-lightgrey)
 
-**wan2shorts** is an end-to-end pipeline that takes a JSON storyboard of scene prompts and automatically generates, captions, formats, and uploads YouTube Shorts — no manual video editing required.
+**ai-shorts-lab** is an end-to-end pipeline that takes a JSON storyboard of scene prompts and automatically generates, captions, formats, and uploads YouTube Shorts — no manual video editing required.
 
-Powered by [WanGP](https://github.com/deepbeepmeep/Wan2GP) (Wan2.1 14B), FFmpeg, and the YouTube Data API.
+Powered by [WanGP](https://github.com/deepbeepmeep/Wan2GP) (Wan2.1 14B), FFmpeg, and the YouTube Data API v3.
 
 ---
 
@@ -59,9 +59,9 @@ YouTube upload               ← uploads as public Short via YouTube API
 - **OS**: Windows 10/11 (WanGP requires Windows + CUDA)
 - **GPU**: NVIDIA with 8GB+ VRAM (6GB works — see [Low-VRAM Mode](#low-vram-mode))
 - **Python**: 3.10+
-- **FFmpeg**: Installed and in `PATH`
-- **WanGP**: Installed separately — see [WanGP setup](https://github.com/deepbeepmeep/Wan2GP)
-- **YouTube Data API v3** credentials (OAuth2)
+- **FFmpeg**: Installed and in `PATH` — [download here](https://ffmpeg.org/download.html)
+- **WanGP**: Installed separately — see [WanGP Setup](#wangp-setup) below
+- **YouTube Data API v3** credentials — see [YouTube Auth](#youtube-auth)
 
 ---
 
@@ -77,27 +77,82 @@ pip install -r requirements.txt
 
 ---
 
-## Setup
+## WanGP Setup
 
-### 1. Install WanGP
+WanGP is the video generation backend. It runs locally on your GPU using the Wan2.1 model.
 
-Follow the [WanGP installation guide](https://github.com/deepbeepmeep/Wan2GP). By default, wan2shorts expects WanGP at:
+### 1. Clone and install WanGP
+
+```bash
+git clone https://github.com/deepbeepmeep/Wan2GP
+cd Wan2GP
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 2. Download the Wan2.1 model
+
+WanGP will prompt you to download the model on first run, or you can download manually:
+
+- **Wan2.1-T2V-14B** (recommended, ~30GB) — best quality, needs 16GB VRAM or 8GB with CPU offload
+- **Wan2.1-T2V-1.3B** (lightweight, ~5GB) — runs on 6GB VRAM, faster but lower quality
+
+Follow the [WanGP model download guide](https://github.com/deepbeepmeep/Wan2GP#model-download) for exact steps.
+
+### 3. Configure the path in ai-shorts-lab
+
+By default, ai-shorts-lab expects WanGP at:
 
 ```
-C:\Users\<you>\.openclaw\workspace\Wan2GP\
+C:\Users\<YourUsername>\.wan2gp\Wan2GP\
 ```
 
-To change this, edit `WAN2GP_DIR` in `scripts/generate_shorts_wangp.py`.
+To use a different path, edit `WAN2GP_DIR` at the top of `scripts/generate_shorts_wangp.py`:
 
-### 2. YouTube Authentication
+```python
+WAN2GP_DIR = Path(r"C:\path\to\your\Wan2GP")
+```
+
+### 4. Verify WanGP works
+
+Test that WanGP generates a video before running the full pipeline:
+
+```bash
+cd Wan2GP
+venv\Scripts\activate
+python wgp.py
+```
+
+This opens the WanGP UI. Generate a test clip to confirm your GPU setup is working.
+
+---
+
+## YouTube Auth
+
+### 1. Create a Google Cloud project
+
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project
+3. Enable the **YouTube Data API v3**
+4. Go to **APIs & Services → Credentials**
+5. Create **OAuth 2.0 Client ID** → Desktop app
+6. Download the JSON file and save it as `client_secret.json` in the project root
+
+### 2. Authenticate
 
 ```bash
 python scripts/youtube_auth.py --channel main
 ```
 
-This opens a browser to authorize via OAuth2. The token is saved to `out/youtube_token.json`.
+This opens a browser window to authorize your YouTube account. The token is saved to `out/youtube_token.json`.
 
-For multiple channels, use `--channel dogs`, `--channel aitools`, etc. — each gets its own token file.
+For multiple channels:
+
+```bash
+python scripts/youtube_auth.py --channel dogs    # saves out/youtube_token_dogs.json
+python scripts/youtube_auth.py --channel main    # saves out/youtube_token.json
+```
 
 ---
 
@@ -166,9 +221,11 @@ python scripts/generate_shorts_wangp.py storyboards/example.json out/my_video.mp
 
 ### Daily automation
 
-Set up a scheduled task (Windows Task Scheduler) or cron to run:
+Set up a **Windows Task Scheduler** task or any cron-compatible scheduler to run daily:
 
 ```bash
+cd C:\path\to\ai-shorts-lab
+.venv\Scripts\activate
 python scripts/full_daily_pipeline.py --storyboard storyboards/todays_storyboard.json
 ```
 
@@ -178,17 +235,17 @@ python scripts/full_daily_pipeline.py --storyboard storyboards/todays_storyboard
 
 If you have a 6GB GPU or hit CUDA out-of-memory errors, set these environment variables before running:
 
-```bash
-set WANGP_MODEL_TYPE=t2v_1.3B
-set WANGP_STEPS=10
-set WANGP_CFG=4.0
-```
-
-Or in PowerShell:
-
+**PowerShell:**
 ```powershell
 $env:WANGP_MODEL_TYPE = "t2v_1.3B"
 $env:WANGP_STEPS = "10"
+$env:WANGP_CFG = "4.0"
+```
+
+**Command Prompt:**
+```cmd
+set WANGP_MODEL_TYPE=t2v_1.3B
+set WANGP_STEPS=10
 ```
 
 This switches to the 1.3B parameter model and reduces inference steps — much lower VRAM usage, slightly lower quality.
@@ -227,11 +284,11 @@ ai-shorts-lab/
 
 - **WanGP always outputs 832×480** — the model generates landscape video regardless of the `width`/`height` params in the storyboard. The pipeline automatically converts to 1080×1920 portrait using a blurred background fill. This is expected behavior.
 
-- **No audio by default** — WanGP generates silent video. Background music support is not yet built in. Add audio via FFmpeg separately if needed.
+- **No audio by default** — WanGP generates silent video. Add background music separately via FFmpeg if needed.
 
 - **GPU memory spikes** — each scene is generated independently to avoid OOM. Large frame counts (>81 frames) can still crash on 8GB GPUs.
 
-- **YouTube Shorts classification** — YouTube automatically classifies videos as Shorts if they are ≤60 seconds and in portrait (9:16) format. The `#shorts` tag in the title/description helps but is not strictly required.
+- **YouTube Shorts classification** — YouTube automatically classifies videos as Shorts if they are ≤60 seconds and in portrait (9:16) format. Adding `#shorts` to the title helps.
 
 ---
 
